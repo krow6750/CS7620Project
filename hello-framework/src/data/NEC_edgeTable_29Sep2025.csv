@@ -1,0 +1,1823 @@
+﻿EndNodes_1,EndNodes_2,Weight
+Wellington_ 3,Sullivan Square_ 4,1.025159958
+Wellington_ 3,Malden Center,1.035397763
+Sullivan Square_ 4,Community College_ 5,1.01587693
+Community College_ 5,North Station,1.015690401
+Haymarket_ 7,State St_ 8,1.005870158
+Haymarket_ 7,Government Center_ 50,1.004357408
+Haymarket_ 7,North Station,1.00373018
+State St_ 8,Downtown Crossing_ 9,1.005233249
+State St_ 8,Government Center_ 50,1.002515135
+State St_ 8,Aquarium_ 119,1.006314434
+Downtown Crossing_ 9,Chinatown_ 10,1.004872899
+Downtown Crossing_ 9,Park St_ 27,1.002780855
+Downtown Crossing_ 9,South Station,1.007134758
+Chinatown_ 10,Tufts Medical Center_ 11,1.004299418
+Tufts Medical Center_ 11,Back Bay,1.012837406
+Mass Ave_ 13,Back Bay,1.012531396
+Mass Ave_ 13,Ruggles,1.007582234
+Roxbury Crossing_ 15,Jackson Square_ 16,1.012218374
+Roxbury Crossing_ 15,Ruggles,1.010345207
+Jackson Square_ 16,Stony Brook_ 17,1.009766775
+Stony Brook_ 17,Green St_ 18,1.010934825
+Green St_ 18,Forest Hills,1.016031286
+Alewife_ 20,Davis Square_ 21,1.021231095
+Davis Square_ 21,Porter Square,1.012539334
+Harvard Square_ 23,Central Square_ 24,1.019505198
+Harvard Square_ 23,Porter Square,1.019954924
+Central Square_ 24,Kendal MIT_ 25,1.018881567
+Kendal MIT_ 25,Charles MGH_ 26,1.015311768
+Charles MGH_ 26,Park St_ 27,1.011175286
+Park St_ 27,Government Center_ 50,1.005682946
+Park St_ 27,Boylston_ 51,1.005248758
+Park St_ 27,South Station,1.009874908
+Broadway_ 29,Andrew_ 30,1.017570127
+Broadway_ 29,South Station,1.013082493
+Andrew_ 30,JFK UMass,1.012364589
+Savin Hill_ 32,Fields Corner_ 33,1.018221726
+Savin Hill_ 32,JFK UMass,1.015088853
+Fields Corner_ 33,Shawmut_ 34,1.010290691
+Shawmut_ 34,Ashmont_ 35,1.01226215
+Ashmont_ 35,Cedar Grove_ 36,1.007737522
+Cedar Grove_ 36,Butler_ 37,1.010858375
+Butler_ 37,Milton_ 38,1.004631983
+Milton_ 38,Central Ave_ 39,1.006432172
+Central Ave_ 39,Valley Rd_ 40,1.008700526
+Valley Rd_ 40,Cappen_ 41,1.006156385
+Cappen_ 41,Mattapan_ 42,1.005481712
+North Quincy_ 43,Wollaston_ 44,1.016557786
+North Quincy_ 43,JFK UMass,1.069021979
+Wollaston_ 44,Quincy Center,1.025551169
+Quincy Adams_ 46,Quincy Center,1.026582209
+Quincy Adams_ 46,Braintree,1.036361207
+Lechmere_ 48,Science Park_ 49,1.011293744
+Lechmere_ 48,Union Square_ 250,1.020383545
+Lechmere_ 48,East Somerville_ 251,1.017165731
+Science Park_ 49,North Station,1.008395852
+Government Center_ 50,Bowdoin_ 120,1.003572728
+Boylston_ 51,Arlington_ 52,1.006595592
+Arlington_ 52,Copley_ 53,1.007175172
+Copley_ 53,Hynes Convention Center_ 54,1.011502051
+Copley_ 53,Prudential_ 56,1.007650403
+Hynes Convention Center_ 54,Kenmore_ 55,1.008123788
+Kenmore_ 55,Fenway_ 67,1.010231432
+Kenmore_ 55,St Marys St_ 80,1.012552233
+Kenmore_ 55,Blandford St_ 93,1.004794086
+Prudential_ 56,Symphony_ 57,1.005822202
+Symphony_ 57,Northeastern University_ 58,1.005232964
+Northeastern University_ 58,Museum of Fine Arts_ 59,1.007291898
+Museum of Fine Arts_ 59,Longwood Medical_ 60,1.005481455
+Longwood Medical_ 60,Brigham Circle_ 61,1.00419799
+Brigham Circle_ 61,Fenwood Rd_ 62,1.002891323
+Fenwood Rd_ 62,Mission Park_ 63,1.004030786
+Mission Park_ 63,Riverway_ 64,1.003231513
+Riverway_ 64,Back of the Hill_ 65,1.003109695
+Back of the Hill_ 65,Heath St_ 66,1.001504639
+Fenway_ 67,Longwood_ 68,1.007850597
+Longwood_ 68,Brookline Village_ 69,1.014225399
+Brookline Village_ 69,Brookline Hills_ 70,1.010663771
+Brookline Hills_ 70,Beaconsfield_ 71,1.01563702
+Beaconsfield_ 71,Reservoir_ 72,1.008665059
+Reservoir_ 72,Chestnut Hill_ 73,1.02026943
+Chestnut Hill_ 73,Newton Centre_ 74,1.029078261
+Newton Centre_ 74,Newton Highlands_ 75,1.016811619
+Newton Highlands_ 75,Eliot_ 76,1.012514576
+Eliot_ 76,Waban_ 77,1.017255248
+Waban_ 77,Woodland_ 78,1.016467436
+Woodland_ 78,Riverside_ 79,1.011681695
+St Marys St_ 80,Hawes St_ 81,1.004524324
+Hawes St_ 81,Kent St_ 82,1.003281992
+Kent St_ 82,St Paul_ 83,1.003075031
+St Paul_ 83,Coolidge Corner_ 84,1.004551032
+Coolidge Corner_ 84,Summit Ave_ 85,1.005079885
+Summit Ave_ 85,Brandon Hall_ 86,1.003392975
+Brandon Hall_ 86,Fairbanks_ 87,1.002632117
+Fairbanks_ 87,Washington Square_ 88,1.004098599
+Washington Square_ 88,Tappan St_ 89,1.003560882
+Tappan St_ 89,Dean Rd_ 90,1.004062126
+Dean Rd_ 90,Englewood Ave_ 91,1.003373844
+Englewood Ave_ 91,Cleveland Circle_ 92,1.004065893
+Blandford St_ 93,BU East_ 94,1.00412418
+BU East_ 94,BU Central_ 95,1.003081349
+BU Central_ 95,BU West_ 96,1.006570147
+BU West_ 96,St Paul St_ 97,1.002851701
+St Paul St_ 97,Pleasant St_ 98,1.003113509
+Pleasant St_ 98,Babcock St_ 99,1.002774413
+Babcock St_ 99,Packards Corner_ 100,1.003652619
+Packards Corner_ 100,Harvard Ave_ 101,1.005786414
+Harvard Ave_ 101,Griggs St_ 102,1.00499206
+Griggs St_ 102,Allston St_ 103,1.003524778
+Allston St_ 103,Warren St_ 104,1.002583067
+Warren St_ 104,Washington St_ 105,1.006172351
+Washington St_ 105,Sutherland Rd_ 106,1.005556251
+Sutherland Rd_ 106,Chiswick Rd_ 107,1.00453743
+Chiswick Rd_ 107,Chestnut Hill Ave_ 108,1.004242233
+Chestnut Hill Ave_ 108,South St_ 109,1.005155082
+South St_ 109,Boston College_ 110,1.009829678
+Wonderland_ 111,Revere Beach_ 112,1.008214251
+Revere Beach_ 112,Beachmont_ 113,1.014616165
+Beachmont_ 113,Suffolk Downs_ 114,1.012116009
+Suffolk Downs_ 114,Orient Heights_ 115,1.008309487
+Orient Heights_ 115,Wood Island_ 116,1.021320381
+Wood Island_ 116,Airport_ 117,1.010704233
+Airport_ 117,Maverick_ 118,1.012076971
+Maverick_ 118,Aquarium_ 119,1.018189087
+Hyde Park_ 121,Route 128_ 122,1.066308557
+Hyde Park_ 121,Readville_ 139,1.023723282
+Hyde Park_ 121,Forest Hills,1.063713477
+Route 128_ 122,Canton Junction_ 123,1.066056039
+Canton Junction_ 123,Canton Center_ 124,1.011810578
+Canton Junction_ 123,Sharon_ 126,1.062971406
+Canton Center_ 124,Stoughton_ 125,1.064533995
+Sharon_ 126,Mansfield_ 127,1.134680393
+Mansfield_ 127,Attleboro_ 128,1.146349371
+Attleboro_ 128,South Attleboro_ 129,1.092949937
+South Attleboro_ 129,Providence_ 130,1.114449296
+Providence_ 130,T.F. Green Airport_ 131,1.146790227
+T.F. Green Airport_ 131,Wickford Junction_ 132,1.211552073
+Newmarket_ 133,Uphams Corner_ 134,1.012083897
+Newmarket_ 133,South Station,1.036152442
+Uphams Corner_ 134,Four Corners/Geneva_ 135,1.0218553
+Four Corners/Geneva_ 135,Talbot Ave_ 136,1.016839516
+Talbot Ave_ 136,Morton St_ 137,1.018849311
+Morton St_ 137,Fairmount_ 138,1.051320632
+Fairmount_ 138,Readville_ 139,1.025442653
+Readville_ 139,Endicott_ 140,1.027330983
+Endicott_ 140,Dedham Corporate Center_ 141,1.018526158
+Dedham Corporate Center_ 141,Islington_ 142,1.013139016
+Islington_ 142,Norwood Depot_ 143,1.037176863
+Norwood Depot_ 143,Norwood Central_ 144,1.011151463
+Norwood Central_ 144,Windsor Gardens_ 145,1.030904719
+Windsor Gardens_ 145,Plimptonville_ 146,1.026114654
+Plimptonville_ 146,Walpole_ 147,1.028894149
+Walpole_ 147,Norfolk_ 148,1.07851281
+Norfolk_ 148,Franklin/Dean College_ 149,1.09012054
+Franklin/Dean College_ 149,Forge Park/495_ 150,1.045468576
+Roslindale Village_ 151,Bellevue_ 152,1.015873246
+Roslindale Village_ 151,Forest Hills,1.023476895
+Bellevue_ 152,Highland_ 153,1.00902614
+Highland_ 153,West Roxbury_ 154,1.007461655
+West Roxbury_ 154,Hersey_ 155,1.059472133
+Hersey_ 155,Needham Junction_ 156,1.021344533
+Needham Junction_ 156,Needham Center_ 157,1.011513227
+Needham Center_ 157,Needham Heights_ 158,1.017067766
+Holbrook/Randolph_ 159,Montello_ 160,1.07039305
+Holbrook/Randolph_ 159,Braintree,1.076703567
+Montello_ 160,Brockton_ 161,1.030983632
+Brockton_ 161,Campello_ 162,1.033635675
+Campello_ 162,Bridgewater_ 163,1.117913799
+Bridgewater_ 163,Middleborough/Lakeville_ 164,1.156485452
+South Weymouth_ 165,Abington_ 166,1.06971165
+South Weymouth_ 165,Braintree,1.089376945
+Abington_ 166,Whitman_ 167,1.036291408
+Whitman_ 167,Hanson_ 168,1.069611442
+Hanson_ 168,Halifax_ 169,1.072604276
+Halifax_ 169,Kingston_ 170,1.118438746
+Halifax_ 169,Plymouth_ 171,1.147012076
+Weymouth Landing/East Braintree_ 172,East Weymouth_ 173,1.047741814
+Weymouth Landing/East Braintree_ 172,Quincy Center,1.057790328
+East Weymouth_ 173,West Hingham_ 174,1.03080652
+West Hingham_ 174,Nantasket Junction_ 175,1.037691414
+Nantasket Junction_ 175,Cohasset_ 176,1.032356552
+Cohasset_ 176,North Scituate_ 177,1.061991368
+North Scituate_ 177,Greenbush_ 178,1.071553152
+Yawkey_ 179,Boston Landing_ 180,1.044236274
+Yawkey_ 179,Back Bay,1.024683698
+Boston Landing_ 180,Newtonville_ 181,1.067801803
+Newtonville_ 181,West Newton_ 182,1.02693209
+West Newton_ 182,Auburndale_ 183,1.02072394
+Auburndale_ 183,Wellesley Farms_ 184,1.03887889
+Wellesley Farms_ 184,Wellesley Hills_ 185,1.018825893
+Wellesley Hills_ 185,Wellesley Square_ 186,1.025692488
+Wellesley Square_ 186,Natick Center_ 187,1.056955819
+Natick Center_ 187,West Natick_ 188,1.046581132
+West Natick_ 188,Framingham_ 189,1.030494821
+Framingham_ 189,Ashland_ 190,1.068464897
+Ashland_ 190,Southborough_ 191,1.043564184
+Southborough_ 191,Westborough_ 192,1.128349588
+Westborough_ 192,Grafton_ 193,1.049286657
+Grafton_ 193,Worcester_ 194,1.116504171
+Belmont_ 195,Waverley_ 196,1.019101235
+Belmont_ 195,Porter Square,1.060014035
+Waverley_ 196,Waltham_ 197,1.049955715
+Waltham_ 197,Brandeis/Roberts_ 198,1.030787109
+Brandeis/Roberts_ 198,Kendal Green_ 199,1.03361834
+Kendal Green_ 199,Hastings_ 200,1.011554491
+Hastings_ 200,Silver Hill_ 201,1.01942375
+Silver Hill_ 201,Lincoln_ 202,1.034972239
+Lincoln_ 202,Concord_ 203,1.068689317
+Concord_ 203,West Concord_ 204,1.037489281
+West Concord_ 204,South Acton_ 205,1.066369321
+South Acton_ 205,Littleton/495_ 206,1.096453373
+Littleton/495_ 206,Ayer_ 207,1.104086529
+Ayer_ 207,Shirley_ 208,1.064001123
+Shirley_ 208,North Leominster_ 209,1.094511159
+North Leominster_ 209,Fitchburg_ 210,1.080645309
+Fitchburg_ 210,Wachusett_ 211,1.069806732
+West Medford_ 212,Wedgemere_ 213,1.032876057
+West Medford_ 212,North Station,1.110020631
+Wedgemere_ 213,Winchester Center_ 214,1.009187206
+Winchester Center_ 214,Mishawum_ 215,1.073113294
+Mishawum_ 215,Anderson/Woburn_ 216,1.021247103
+Anderson/Woburn_ 216,Wilmington_ 217,1.052000911
+Wilmington_ 217,North Billerica_ 218,1.127861736
+Wilmington_ 217,Ballardvale_ 227,1.113871239
+North Billerica_ 218,Lowell_ 219,1.069379746
+Wyoming Hill_ 220,Melrose/Cedar Park_ 221,1.009602941
+Wyoming Hill_ 220,Oak Grove,1.021358114
+Melrose/Cedar Park_ 221,Melrose Highlands_ 222,1.015070402
+Melrose Highlands_ 222,Greenwood_ 223,1.018895502
+Greenwood_ 223,Wakefield_ 224,1.028276931
+Wakefield_ 224,Reading_ 225,1.044019633
+Reading_ 225,North Wilmington_ 226,1.0851751
+North Wilmington_ 226,Ballardvale_ 227,1.080936199
+Ballardvale_ 227,Andover_ 228,1.046168495
+Andover_ 228,Lawrence_ 229,1.061545915
+Lawrence_ 229,Bradford_ 230,1.112635816
+Bradford_ 230,Haverhill_ 231,1.00871616
+Chelsea_ 232,River Works_ 233,1.104379145
+Chelsea_ 232,North Station,1.049023518
+River Works_ 233,Lynn_ 234,1.03106745
+Lynn_ 234,Swampscott_ 235,1.028051242
+Swampscott_ 235,Salem_ 236,1.076917669
+Salem_ 236,Beverly_ 237,1.033148697
+Beverly_ 237,North Beverly_ 238,1.051385775
+Beverly_ 237,Montserrat_ 243,1.026813257
+North Beverly_ 238,Hamilton/Wenham_ 239,1.036715681
+Hamilton/Wenham_ 239,Ipswich_ 240,1.101161159
+Ipswich_ 240,Rowley_ 241,1.072729594
+Rowley_ 241,Newburyport_ 242,1.101485439
+Montserrat_ 243,Prides Crossing_ 244,1.045436157
+Prides Crossing_ 244,Beverly Farms_ 245,1.014972096
+Beverly Farms_ 245,Manchester_ 246,1.047312037
+Manchester_ 246,West Gloucester_ 247,1.084392498
+West Gloucester_ 247,Gloucester_ 248,1.039028834
+Gloucester_ 248,Rockport_ 249,1.069664477
+East Somerville_ 251,Gilman Square_ 252,1.013733424
+Gilman Square_ 252,Magoun Square_ 253,1.013415801
+Magoun Square_ 253,Ball Square_ 254,1.009948261
+Ball Square_ 254,Medford/Tufts_ 255,1.013148027
+1 Av_ 256,3 Av_ 335,1.004949949
+1 Av_ 256,Bedford Av_ 441,1.032893586
+103 St_ 257,96 St_ 403,1.008811777
+103 St_ 257,Cathedral Pkwy-110 St_ 472,1.006547024
+103 St_ 258,110 St_ 263,1.007084628
+103 St_ 258,96 St_ 404,1.007895411
+103 St_ 259,96 St_ 405,1.007113791
+103 St_ 259,Cathedral Pkwy-110 St_ 473,1.007246979
+103 St-Corona Plaza_ 260,111 St_ 264,1.008253018
+103 St-Corona Plaza_ 260,Junction Blvd_ 562,1.007324759
+104 St_ 261,111 St_ 265,1.006927059
+104 St_ 261,Rockaway Blvd_ 634,1.006805264
+104 St_ 262,111 St_ 266,1.008574406
+104 St_ 262,Woodhaven Blvd_ 672,1.008356542
+110 St_ 263,116 St_ 268,1.005783233
+111 St_ 264,Mets-Willets Point_ 585,1.011085726
+111 St_ 265,Ozone Park-Lefferts Blvd_ 613,1.007141567
+111 St_ 266,121 St_ 271,1.010146719
+116 St_ 267,125 St_ 273,1.009065024
+116 St_ 267,Central Park North-110 St_ 475,1.00483979
+116 St_ 268,125th St,1.00911857
+116 St_ 269,125 St_ 275,1.008859098
+116 St_ 269,Cathedral Pkwy-110 St_ 473,1.007174853
+116 St-Columbia University_ 270,125 St_ 272,1.012595207
+116 St-Columbia University_ 270,Cathedral Pkwy-110 St_ 472,1.006015712
+121 St_ 271,Sutphin Blvd-Archer Av-JFK Airport_ 650,1.021635493
+125 St_ 272,137 St-City College_ 278,1.010301771
+125 St_ 273,135 St_ 276,1.010375879
+125 St_ 275,135 St_ 277,1.010813358
+135 St_ 276,145 St_ 284,1.009925508
+135 St_ 277,145 St_ 285,1.010295887
+137 St-City College_ 278,145 St_ 283,1.00728003
+138 St - Grand Concourse_ 279,149 St - Grand Concourse_ 286,1.007590133
+138 St - Grand Concourse_ 279,125th St,1.015053443
+14 St_ 280,23 St_ 324,1.00803031
+14 St_ 280,West 4th/Washington Sq/9th St,1.011093102
+14 St_ 280,14th St,1.006909148
+14 St-Union Sq_ 282,23 St_ 323,1.008106391
+14 St-Union Sq_ 282,23 St_ 326,1.009321939
+14 St-Union Sq_ 282,3 Av_ 335,1.00526008
+14 St-Union Sq_ 282,8 St-New York University_ 389,1.006498347
+14 St-Union Sq_ 282,Astor Place_ 411,1.006587451
+14 St-Union Sq_ 282,14th St,1.008346501
+145 St_ 283,157 St_ 290,1.01200377
+145 St_ 284,149 St - Grand Concourse_ 286,1.009863431
+145 St_ 284,Harlem-148 St_ 545,1.004857897
+145 St_ 285,155 St_ 288,1.009780037
+145 St_ 285,155 St_ 289,1.008517967
+149 St - Grand Concourse_ 286,161 St - Yankee Stadium_ 291,1.014040125
+149 St - Grand Concourse_ 286,3 Av-149 St_ 337,1.010671921
+15 St-Prospect Park_ 287,7 Av_ 375,1.008726759
+15 St-Prospect Park_ 287,Fort Hamilton Pkwy_ 523,1.013647666
+155 St_ 288,161 St - Yankee Stadium_ 291,1.013551377
+155 St_ 289,163 St-Amsterdam Av_ 292,1.007897858
+157 St_ 290,168 St_ 295,1.010440449
+161 St - Yankee Stadium_ 291,167 St_ 293,1.011215951
+161 St - Yankee Stadium_ 291,167 St_ 294,1.010942345
+163 St-Amsterdam Av_ 292,168 St_ 295,1.006377703
+167 St_ 293,170 St_ 297,1.007428973
+167 St_ 294,170 St_ 298,1.009425677
+168 St_ 295,175 St_ 301,1.009598418
+168 St_ 295,181 St_ 307,1.014342036
+169 St_ 296,Jamaica-179 St_ 558,1.010693328
+169 St_ 296,Parsons Blvd_ 617,1.011224286
+170 St_ 297,Mt Eden Av_ 593,1.006946259
+170 St_ 298,174-175 Sts_ 300,1.009876807
+174 St_ 299,Freeman St_ 528,1.010990294
+174 St_ 299,West Farms Sq-East Tremont Av_ 667,1.009229678
+174-175 Sts_ 300,Tremont Av_ 654,1.008194759
+175 St_ 301,181 St_ 308,1.006311758
+176 St_ 302,Burnside Av_ 464,1.008226674
+176 St_ 302,Mt Eden Av_ 593,1.006451434
+18 Av_ 303,20 Av_ 314,1.00562677
+18 Av_ 303,79 St_ 386,1.007682854
+18 Av_ 304,Avenue I_ 417,1.006713995
+18 Av_ 304,Ditmas Av_ 500,1.009018019
+18 Av_ 305,20 Av_ 315,1.008067378
+18 Av_ 305,New Utrecht Av_ 604,1.008567936
+18 St_ 306,23 St_ 322,1.004871607
+18 St_ 306,14th St,1.004736857
+181 St_ 307,191 St_ 312,1.009169798
+181 St_ 308,190 St_ 311,1.011035974
+182-183 Sts_ 309,Fordham Rd_ 519,1.007958776
+182-183 Sts_ 309,Tremont Av_ 654,1.009284501
+183 St_ 310,Burnside Av_ 464,1.008036593
+183 St_ 310,Fordham Rd_ 518,1.006865405
+190 St_ 311,Dyckman St_ 502,1.011664585
+191 St_ 312,Dyckman St_ 501,1.008503284
+2 Av_ 313,Broadway-Lafayette St_ 458,1.007172121
+2 Av_ 313,Delancey St_ 499,1.006911055
+20 Av_ 314,Bay Pkwy_ 427,1.006129931
+20 Av_ 315,Bay Pkwy_ 429,1.008450322
+207 St_ 316,215 St_ 319,1.007746224
+207 St_ 316,Dyckman St_ 501,1.009142126
+21 St_ 317,Court Sq_ 491,1.006141385
+21 St_ 317,Greenpoint Av_ 540,1.018756059
+21 St-Queensbridge_ 318,Northern Blvd_ 607,1.038139792
+21 St-Queensbridge_ 318,Roosevelt Island_ 636,1.014218683
+215 St_ 319,Marble Hill,1.008728469
+219 St_ 320,225 St_ 321,1.006297056
+219 St_ 320,Gun Hill Rd_ 541,1.009314623
+225 St_ 321,Woodlawn/233rd St,1.008730723
+23 St_ 322,28 St_ 332,1.005025827
+23 St_ 323,28 St_ 333,1.005136399
+23 St_ 324,34 St-Penn Station_ 344,1.010224187
+23 St_ 326,28 St_ 334,1.005863503
+231 St_ 327,238 St_ 329,1.009171488
+231 St_ 327,Marble Hill,1.008539613
+238 St_ 329,Van Cortlandt Park-242 St_ 657,1.006868322
+25 Av_ 330,Bay 50 St_ 426,1.012853573
+25 Av_ 330,Bay Pkwy_ 427,1.009416421
+25 St_ 331,36 St_ 346,1.009382313
+25 St_ 331,Prospect Av_ 625,1.008964623
+28 St_ 332,Penn Station NYC,1.004406422
+28 St_ 333,33 St_ 339,1.00482138
+28 St_ 334,33rd St/Herald,1.00523501
+3 Av-138 St_ 336,Brook Av_ 460,1.008384415
+3 Av-138 St_ 336,125th St,1.015347643
+3 Av-149 St_ 337,Jackson Av_ 556,1.010726352
+30 Av_ 338,Astoria Blvd_ 412,1.005814984
+30 Av_ 338,Broadway_ 456,1.008806158
+33 St_ 339,Grand Central Station,1.01044358
+33 St-Rawson St_ 340,40 St-Lowery St_ 350,1.00750469
+33 St-Rawson St_ 340,Queensboro Plaza_ 628,1.012918177
+34 St-Hudson Yards_ 342,Times Sq-42 St_ 653,1.015623519
+34 St-Penn Station_ 344,Times Sq-42 St_ 653,1.007549502
+34 St-Penn Station_ 344,Penn Station NYC,1.002797362
+36 Av_ 345,39 Av_ 348,1.006059784
+36 Av_ 345,Broadway_ 456,1.008210423
+36 St_ 346,45 St_ 351,1.011089523
+36 St_ 346,9 Av_ 401,1.015535309
+36 St_ 347,Queens Plaza_ 627,1.009626384
+36 St_ 347,Steinway St._ 647,1.01145194
+39 Av_ 348,Queensboro Plaza_ 628,1.008323441
+4 Av_ 349,7 Av_ 375,1.011604797
+4 Av_ 349,Prospect Av_ 625,1.00756744
+4 Av_ 349,Smith-9 Sts_ 642,1.008039374
+4 Av_ 349,Union St_ 655,1.012164222
+40 St-Lowery St_ 350,46 St-Bliss St_ 353,1.006000712
+45 St_ 351,53 St_ 362,1.006917177
+46 St_ 352,Northern Blvd_ 607,1.00931526
+46 St_ 352,Steinway St._ 647,1.007502026
+46 St-Bliss St_ 353,52 St_ 361,1.006415989
+47-50 Sts-Rockefeller Center_ 354,5 Av-53 St_ 356,1.006773436
+47-50 Sts-Rockefeller Center_ 354,57 St_ 364,1.00872032
+47-50 Sts-Rockefeller Center_ 354,7 Av_ 376,1.006085095
+47-50 Sts-Rockefeller Center_ 354,Times Sq-42 St_ 653,1.008061704
+49 St_ 355,57 St-7 Av_ 365,1.007636592
+49 St_ 355,Times Sq-42 St_ 653,1.007227944
+5 Av-53 St_ 356,7 Av_ 376,1.007956803
+5 Av-53 St_ 356,Lexington Av-53 St_ 576,1.007520253
+5 Av-59 St_ 357,57 St-7 Av_ 365,1.007851113
+5 Av-59 St_ 357,Lexington Av_ 575,1.006996569
+50 St_ 358,55 St_ 363,1.006748105
+50 St_ 358,Fort Hamilton Pkwy_ 522,1.006543288
+50 St_ 359,59 St-Columbus Circle_ 367,1.009369107
+50 St_ 359,Times Sq-42 St_ 653,1.009826574
+50 St_ 360,59 St-Columbus Circle_ 367,1.009194856
+50 St_ 360,7 Av_ 376,1.00461061
+50 St_ 360,Times Sq-42 St_ 653,1.010179317
+52 St_ 361,Woodside,1.010412928
+53 St_ 362,59 St_ 366,1.006618503
+55 St_ 363,New Utrecht Av_ 604,1.009371184
+57 St_ 364,Lexington Av-63 St_ 577,1.012005716
+57 St-7 Av_ 365,Lexington Av-63 St_ 577,1.015554112
+59 St_ 366,8 Av_ 388,1.011236642
+59 St_ 366,Bay Ridge Av_ 430,1.010709468
+59 St-Columbus Circle_ 367,66 St-Lincoln Center_ 370,1.007290413
+59 St-Columbus Circle_ 367,7 Av_ 376,1.007406032
+59 St-Columbus Circle_ 367,72 St_ 379,1.011804978
+63 Dr-Rego Park_ 368,67 Av_ 371,1.010371037
+63 Dr-Rego Park_ 368,Woodhaven Blvd_ 673,1.009531495
+65 St_ 369,74-Broadway_ 381,1.008996929
+65 St_ 369,Northern Blvd_ 607,1.008874951
+66 St-Lincoln Center_ 370,72 St_ 378,1.007036434
+67 Av_ 371,"Forest Hills, NY",1.012040459
+68 St-Hunter College_ 372,77 St_ 385,1.008779953
+68 St-Hunter College_ 372,Lexington Av_ 575,1.008481018
+69 St_ 373,74-Broadway_ 381,1.005576006
+69 St_ 373,Woodside,1.007035156
+7 Av_ 374,Prospect Park_ 626,1.024563737
+7 Av_ 374,Atlantic Ave/Barclays Center,1.011750411
+71 St_ 377,79 St_ 386,1.008755037
+71 St_ 377,New Utrecht Av_ 604,1.008267206
+72 St_ 378,79 St_ 387,1.007991583
+72 St_ 379,81 St-Museum of Natural History_ 391,1.009331243
+72 St_ 380,86 St_ 394,1.014507833
+72 St_ 380,Lexington Av-63 St_ 577,1.010092356
+74-Broadway_ 381,82 St-Jackson Hts_ 392,1.008055733
+74-Broadway_ 381,Elmhurst Av_ 511,1.011609459
+75 Av_ 382,Kew Gardens-Union Turnpike_ 564,1.008954566
+75 Av_ 382,"Forest Hills, NY",1.00896525
+75 St-Elderts Ln_ 383,85 St-Forest Pkwy_ 393,1.007823158
+75 St-Elderts Ln_ 383,Cypress Hills_ 496,1.00683388
+77 St_ 384,86 St._ 396,1.010362843
+77 St_ 384,Bay Ridge Av_ 430,1.007672903
+77 St_ 385,86 St._ 398,1.009410751
+79 St_ 387,86 St._ 397,1.007686625
+8 Av_ 388,Fort Hamilton Pkwy_ 524,1.008268187
+8 St-New York University_ 389,Prince St_ 623,1.010226201
+80 St_ 390,88 St_ 400,1.008029087
+80 St_ 390,Grant Av_ 539,1.007224001
+81 St-Museum of Natural History_ 391,86 St._ 399,1.007176087
+82 St-Jackson Hts_ 392,90 St-Elmhurst Av_ 402,1.007601027
+85 St-Forest Pkwy_ 393,Woodhaven Blvd_ 672,1.008731453
+86 St_ 394,96 St_ 406,1.010244726
+86 St._ 395,Avenue U_ 423,1.006484002
+86 St._ 395,Coney Island-Stillwell Av_ 489,1.021798486
+86 St._ 396,Bay Ridge-95 St_ 431,1.008907249
+86 St._ 397,96 St_ 403,1.008477086
+86 St._ 398,96 St_ 404,1.009908912
+86 St._ 399,96 St_ 405,1.009286451
+88 St_ 400,Rockaway Blvd_ 634,1.008144325
+9 Av_ 401,Fort Hamilton Pkwy_ 522,1.007819488
+90 St-Elmhurst Av_ 402,Junction Blvd_ 562,1.007600739
+96 St_ 403,Central Park North-110 St_ 475,1.022940163
+Alabama Av_ 407,Van Siclen Av_ 660,1.007448088
+Alabama Av_ 407,Broadway,1.005891158
+Allerton Av_ 408,Burke Av_ 463,1.008103589
+Allerton Av_ 408,Pelham Pkwy_ 619,1.011632875
+Aqueduct Racetrack_ 409,Aqueduct-North Conduit Av_ 410,1.005769123
+Aqueduct Racetrack_ 409,Rockaway Blvd_ 634,1.014416604
+Aqueduct-North Conduit Av_ 410,Howard Beach-JFK Airport_ 549,1.011593332
+Astor Place_ 411,Broadway-Lafayette St_ 458,1.008620323
+Astoria Blvd_ 412,Astoria-Ditmars Blvd_ 413,1.009519439
+Atlantic Av_ 414,Sutter Av_ 651,1.008786715
+Atlantic Av_ 414,Broadway,1.002625226
+Avenue H_ 416,Avenue J_ 418,1.005936477
+Avenue H_ 416,Newkirk Plaza_ 606,1.008416913
+Avenue I_ 417,Bay Pkwy_ 428,1.006073712
+Avenue J_ 418,Avenue M_ 419,1.010806724
+Avenue M_ 419,Kings Hwy_ 565,1.012409237
+Avenue N_ 420,Avenue P_ 421,1.007814226
+Avenue N_ 420,Bay Pkwy_ 428,1.009034341
+Avenue P_ 421,Kings Hwy_ 566,1.007863666
+Avenue U_ 422,Avenue X_ 425,1.009132149
+Avenue U_ 422,Kings Hwy_ 566,1.010344312
+Avenue U_ 423,Kings Hwy_ 567,1.00966874
+Avenue U_ 424,Kings Hwy_ 565,1.013226251
+Avenue U_ 424,Neck Rd_ 598,1.005647241
+Avenue X_ 425,Neptune Av_ 599,1.012223951
+Bay 50 St_ 426,Coney Island-Stillwell Av_ 489,1.016437317
+Bay Pkwy_ 429,Kings Hwy_ 567,1.010483282
+Baychester Av_ 432,Eastchester-Dyre Av_ 508,1.015824403
+Baychester Av_ 432,Gun Hill Rd_ 542,1.015250926
+Beach 105 St_ 433,Beach 98 St_ 440,1.008086311
+Beach 105 St_ 433,Rockaway Park-Beach 116 St_ 635,1.009128432
+Beach 25 St_ 434,Beach 36 St_ 435,1.009781102
+Beach 25 St_ 434,Far Rockaway-Mott Av_ 513,1.008396605
+Beach 36 St_ 435,Beach 44 St_ 436,1.009030928
+Beach 44 St_ 436,Beach 60 St_ 437,1.013348026
+Beach 60 St_ 437,Beach 67 St-Arverne By The Sea_ 438,1.009176932
+Beach 67 St-Arverne By The Sea_ 438,Broad Channel_ 453,1.03172458
+Beach 90 St_ 439,Beach 98 St_ 440,1.008243285
+Beach 90 St_ 439,Broad Channel_ 453,1.028584744
+Bedford Av_ 441,Lorimer St_ 582,1.008092024
+Bedford Park Blvd_ 442,Kingsbridge Rd_ 569,1.01108712
+Bedford Park Blvd_ 442,Norwood-205 St_ 609,1.009056322
+Bedford Park Blvd-Lehman College_ 443,Kingsbridge Rd_ 568,1.010942315
+Bedford Park Blvd-Lehman College_ 443,Mosholu Pkwy_ 592,1.010580774
+Bedford-Nostrand Avs_ 444,Classon Av_ 485,1.006956975
+Bedford-Nostrand Avs_ 444,Myrtle-Willoughby Avs_ 595,1.008454848
+Bergen St_ 445,Grand Army Plaza_ 534,1.008915498
+Bergen St_ 445,Atlantic Ave/Barclays Center,1.006010972
+Bergen St_ 446,Carroll St_ 470,1.009322673
+Bergen St_ 446,Hoyt-Schermerhorn Sts_ 551,1.006885476
+Bergen St_ 446,Jay St-MetroTech_ 560,1.009682762
+Beverley Rd_ 447,Church Av_ 481,1.009374487
+Beverley Rd_ 447,Cortelyou Rd_ 490,1.004201959
+Beverly Rd_ 448,Church Av_ 480,1.008073562
+Beverly Rd_ 448,Newkirk Av_ 605,1.00722276
+Bowery_ 449,Canal St_ 468,1.007029247
+Bowery_ 449,Delancey St_ 499,1.006474661
+Bowling Green_ 450,Court St_ 492,1.027979829
+Bowling Green_ 450,Wall St_ 664,1.004353405
+Briarwood-Van Wyck Blvd_ 451,Jamaica-Van Wyck_ 559,1.009617589
+Briarwood-Van Wyck Blvd_ 451,Kew Gardens-Union Turnpike_ 564,1.012353385
+Briarwood-Van Wyck Blvd_ 451,Sutphin Blvd_ 649,1.011725837
+Brighton Beach_ 452,Ocean Pkwy_ 612,1.007863379
+Brighton Beach_ 452,Sheepshead Bay_ 639,1.014631539
+Broad Channel_ 453,Howard Beach-JFK Airport_ 549,1.074651206
+Broad St_ 454,Fulton St_ 531,1.006304834
+Broadway_ 455,Flushing Av_ 515,1.008065963
+Broadway_ 455,Lorimer St_ 582,1.011145442
+Broadway-Lafayette St_ 458,Grand St_ 538,1.010199593
+Broadway-Lafayette St_ 458,Spring St_ 644,1.004318994
+Broadway-Lafayette St_ 458,West 4th/Washington Sq/9th St,1.011572755
+Bronx Park East_ 459,East 180 St_ 506,1.011039441
+Bronx Park East_ 459,Pelham Pkwy_ 619,1.011852631
+Brook Av_ 460,Cypress Av_ 495,1.006321803
+Brooklyn Bridge-City Hall_ 461,Canal St_ 468,1.008503086
+Brooklyn Bridge-City Hall_ 461,Fulton St_ 531,1.00573849
+Buhre Av_ 462,Middletown Rd_ 587,1.005740045
+Buhre Av_ 462,Pelham Bay Park_ 618,1.009226637
+Burke Av_ 463,Gun Hill Rd_ 541,1.009282118
+Bushwick Av-Aberdeen St_ 465,Wilson Av_ 670,1.008537913
+Bushwick Av-Aberdeen St_ 465,Broadway,1.008226526
+Canal St_ 466,Franklin St_ 527,1.005002102
+Canal St_ 466,Houston St_ 548,1.007632058
+Canal St_ 467,Chambers St_ 477,1.010069697
+Canal St_ 467,Spring St_ 645,1.007742674
+Canal St_ 468,City Hall_ 483,1.010257389
+Canal St_ 468,DeKalb Av_ 497,1.043121282
+Canal St_ 468,Prince St_ 623,1.008923979
+Canal St_ 468,Spring St_ 644,1.006454882
+Canarsie-Rockaway Pkwy_ 469,East 105 St_ 503,1.005885834
+Carroll St_ 470,Smith-9 Sts_ 642,1.0093574
+Castle Hill Av_ 471,Parkchester_ 615,1.010284052
+Castle Hill Av_ 471,Zerega Av_ 678,1.005435762
+Central Av_ 474,Knickerbocker Av_ 572,1.008076365
+Central Av_ 474,Myrtle Av_ 594,1.008962668
+Chambers St_ 476,Chambers St_ 477,1.002049768
+Chambers St_ 476,Franklin St_ 527,1.005951189
+Chambers St_ 476,WTC Cortlandt_ 676,1.005980415
+Chambers St_ 476,World Trade Center Station_ 1368,1.005429434
+Chambers St_ 477,City Hall_ 483,1.002067378
+Chambers St_ 477,Fulton St_ 531,1.006925104
+Chambers St_ 477,Rector St_ 631,1.010076353
+Chambers St_ 477,World Trade Center Station_ 1368,1.003997034
+Chauncey St_ 478,Halsey St_ 543,1.008322574
+Chauncey St_ 478,Broadway,1.01053777
+Christopher St-Sheridan Sq_ 479,Houston St_ 548,1.007710785
+Christopher St-Sheridan Sq_ 479,14th St,1.009058214
+Church Av_ 480,Winthrop St_ 671,1.008160948
+Church Av_ 481,Parkside Av_ 616,1.006601736
+Church Av_ 482,Ditmas Av_ 500,1.011555131
+Church Av_ 482,Fort Hamilton Pkwy_ 523,1.010050367
+Clark St_ 484,Court St_ 492,1.004780292
+Clark St_ 484,Wall St_ 663,1.021498981
+Classon Av_ 485,Clinton-Washington Avs_ 488,1.007324498
+Cleveland St_ 486,Norwood Av_ 608,1.006407276
+Cleveland St_ 486,Van Siclen Av_ 660,1.007300983
+Clinton-Washington Avs_ 487,Franklin Av_ 526,1.009921169
+Clinton-Washington Avs_ 487,Lafayette Av_ 574,1.009505965
+Clinton-Washington Avs_ 488,Fulton St_ 530,1.009226981
+Coney Island-Stillwell Av_ 489,West 8 St-New York Aquarium_ 666,1.00588926
+Cortelyou Rd_ 490,Newkirk Plaza_ 606,1.008216431
+Court Sq_ 491,Lexington Av-53 St_ 576,1.029235728
+Court Sq_ 491,Queens Plaza_ 627,1.009034895
+Court Sq_ 491,Queensboro Plaza_ 628,1.007420098
+Court Sq_ 491,Hunters Point,1.00717628
+Court St_ 492,Hoyt St_ 550,1.008823582
+Court St_ 492,Jay St-MetroTech_ 560,1.005458718
+Court St_ 492,South Ferry_ 643,1.02504502
+Crescent St_ 493,Cypress Hills_ 496,1.009089263
+Crescent St_ 493,Norwood Av_ 608,1.006478146
+Crown Heights-Utica Av_ 494,Kingston Av_ 570,1.009842584
+Crown Heights-Utica Av_ 494,Sutter Av-Rutland Rd_ 652,1.012554322
+Cypress Av_ 495,East 143 St-St Mary's St_ 504,1.008249413
+DeKalb Av_ 497,Grand St_ 538,1.040783099
+DeKalb Av_ 497,Jay St-MetroTech_ 560,1.006332553
+DeKalb Av_ 497,Atlantic Ave/Barclays Center,1.009491137
+DeKalb Av_ 498,Jefferson St_ 561,1.006440573
+DeKalb Av_ 498,Myrtle-Wyckoff Avs_ 596,1.00972715
+Delancey St_ 499,East Broadway_ 507,1.007127532
+Delancey St_ 499,Marcy Av_ 584,1.035253916
+Dyckman St_ 502,Inwood-207 St_ 555,1.00861752
+East 105 St_ 503,New Lots Av_ 603,1.011850862
+East 143 St-St Mary's St_ 504,East 149 St_ 505,1.006083572
+East 149 St_ 505,Longwood Av_ 580,1.009871406
+East 180 St_ 506,Morris Park_ 590,1.022213352
+East 180 St_ 506,West Farms Sq-East Tremont Av_ 667,1.007394101
+East Broadway_ 507,York St_ 677,1.020102823
+Eastern Pkwy-Brooklyn Museum_ 509,Franklin Av_ 525,1.006751715
+Eastern Pkwy-Brooklyn Museum_ 509,Grand Army Plaza_ 534,1.008501289
+Elder Av_ 510,Morrison Av-Soundview_ 591,1.005100297
+Elder Av_ 510,Whitlock Av_ 669,1.008094332
+Elmhurst Av_ 511,Grand Av-Newtown_ 535,1.009323633
+Euclid Av_ 512,Grant Av_ 539,1.007862185
+Euclid Av_ 512,Shepherd Av_ 640,1.009360847
+Flatbush Av-Brooklyn College_ 514,Newkirk Av_ 605,1.010060308
+Flushing Av_ 515,Myrtle-Willoughby Avs_ 595,1.008171218
+Flushing Av_ 516,Lorimer St_ 581,1.007980411
+Flushing Av_ 516,Myrtle Av_ 594,1.007597136
+Fordham Rd_ 518,Kingsbridge Rd_ 568,1.008069397
+Fordham Rd_ 519,Kingsbridge Rd_ 569,1.009151859
+Forest Av_ 520,Fresh Pond Rd_ 529,1.008044804
+Forest Av_ 520,Seneca Av_ 638,1.005230305
+Fort Hamilton Pkwy_ 524,New Utrecht Av_ 604,1.01326741
+Franklin Av_ 525,Nostrand Av_ 610,1.00824603
+Franklin Av_ 525,Park Pl_ 614,1.005642775
+Franklin Av_ 525,President St_ 622,1.008954912
+Franklin Av_ 525,Prospect Park_ 626,1.013475
+Franklin Av_ 526,Park Pl_ 614,1.009305883
+Franklin Av_ 526,Nostrand Ave,1.008468693
+Freeman St_ 528,Simpson St_ 641,1.008545821
+Fresh Pond Rd_ 529,Middle Village-Metropolitan Av_ 586,1.009923943
+Fulton St_ 530,Hoyt-Schermerhorn Sts_ 551,1.010434136
+Fulton St_ 531,High St_ 547,1.022154325
+Fulton St_ 531,Wall St_ 663,1.004525657
+Fulton St_ 531,Wall St_ 664,1.006200959
+Fulton St_ 531,World Trade Center Station_ 1368,1.00551466
+Gates Av_ 532,Halsey St_ 543,1.007361593
+Gates Av_ 532,Kosciuszko St_ 573,1.008425421
+Graham Av_ 533,Grand St_ 537,1.005580404
+Graham Av_ 533,Lorimer St_ 582,1.006739748
+Grand Av-Newtown_ 535,Woodhaven Blvd_ 673,1.009782992
+Grand St_ 537,Montrose Av_ 588,1.005917863
+Greenpoint Av_ 540,Nassau Av_ 597,1.010124853
+Gun Hill Rd_ 542,Pelham Pkwy_ 620,1.017586266
+Halsey St_ 544,Myrtle-Wyckoff Avs_ 596,1.009318259
+Halsey St_ 544,Wilson Av_ 670,1.009330194
+Hewes St_ 546,Lorimer St_ 581,1.00779664
+Hewes St_ 546,Marcy Av_ 584,1.0050717
+High St_ 547,Jay St-MetroTech_ 560,1.010255795
+High St_ 547,York St_ 677,1.00391891
+Hoyt St_ 550,Nevins St_ 601,1.005861016
+Hoyt-Schermerhorn Sts_ 551,Jay St-MetroTech_ 560,1.006152547
+Hoyt-Schermerhorn Sts_ 551,Lafayette Av_ 574,1.012227767
+Hunts Point Av_ 553,Longwood Av_ 580,1.00923097
+Hunts Point Av_ 553,Whitlock Av_ 669,1.009039042
+Intervale Av_ 554,Prospect Av_ 624,1.00662387
+Intervale Av_ 554,Simpson St_ 641,1.004564119
+Jackson Av_ 556,Prospect Av_ 624,1.007606021
+Jamaica-Van Wyck_ 559,Sutphin Blvd-Archer Av-JFK Airport_ 650,1.010209009
+Jefferson St_ 561,Morgan Av_ 589,1.010901034
+Junius St_ 563,Pennsylvania Av_ 621,1.00820033
+Junius St_ 563,Rockaway Av_ 632,1.007059371
+Kingston Av_ 570,Nostrand Av_ 610,1.008818292
+Kingston-Throop Avs_ 571,Utica Av_ 656,1.010804153
+Kingston-Throop Avs_ 571,Nostrand Ave,1.009032189
+Knickerbocker Av_ 572,Myrtle-Wyckoff Avs_ 596,1.009368599
+Kosciuszko St_ 573,Myrtle Av_ 594,1.009438688
+Lexington Av_ 575,Lexington Av-53 St_ 576,1.007569025
+Lexington Av_ 575,Queensboro Plaza_ 628,1.033508159
+Lexington Av-53 St_ 576,Grand Central Station,1.01092697
+Lexington Av-63 St_ 577,Roosevelt Island_ 636,1.015648957
+Liberty Av_ 578,Van Siclen Av_ 659,1.00706902
+Liberty Av_ 578,Broadway,1.008744098
+Livonia Av_ 579,New Lots Av_ 603,1.00734183
+Livonia Av_ 579,Sutter Av_ 651,1.007280554
+Lorimer St_ 582,Nassau Av_ 597,1.014633343
+Mets-Willets Point_ 585,Flushing,1.016890166
+Middletown Rd_ 587,Westchester Sq-East Tremont Av_ 668,1.008973725
+Montrose Av_ 588,Morgan Av_ 589,1.007277536
+Morris Park_ 590,Pelham Pkwy_ 620,1.00846806
+Morrison Av-Soundview_ 591,St. Lawrence Ave._ 646,1.007834403
+Mosholu Pkwy_ 592,Woodlawn_ 674,1.010815635
+Myrtle-Wyckoff Avs_ 596,Seneca Av_ 638,1.006034616
+Neck Rd_ 598,Sheepshead Bay_ 639,1.012355595
+Neptune Av_ 599,West 8 St-New York Aquarium_ 666,1.006758089
+Nereid Av_ 600,Wakefield-241 St_ 662,1.007836726
+Nereid Av_ 600,Woodlawn/233rd St,1.008376053
+Nevins St_ 601,Atlantic Ave/Barclays Center,1.005918799
+New Lots Av_ 602,Van Siclen Av_ 658,1.005742882
+Northern Blvd_ 607,Queens Plaza_ 627,1.033471333
+Ocean Pkwy_ 612,West 8 St-New York Aquarium_ 666,1.007954311
+Parkchester_ 615,St. Lawrence Ave._ 646,1.007610371
+Parkside Av_ 616,Prospect Park_ 626,1.009222967
+Parsons Blvd_ 617,Sutphin Blvd_ 649,1.00857206
+Pennsylvania Av_ 621,Van Siclen Av_ 658,1.005939748
+President St_ 622,Sterling St._ 648,1.007170314
+Queens Plaza_ 627,Queensboro Plaza_ 628,1.004017752
+Ralph Av_ 629,Rockaway Av_ 633,1.009428221
+Ralph Av_ 629,Utica Av_ 656,1.010604517
+Rector St_ 630,South Ferry_ 643,1.008137476
+Rector St_ 630,WTC Cortlandt_ 676,1.006295321
+Rector St_ 631,South Ferry_ 643,1.00843886
+Rockaway Av_ 632,Saratoga Av_ 637,1.007991151
+Rockaway Av_ 633,Broadway,1.008574057
+Saratoga Av_ 637,Sutter Av-Rutland Rd_ 652,1.008000695
+Shepherd Av_ 640,Van Siclen Av_ 659,1.010413999
+Spring St_ 645,West 4th/Washington Sq/9th St,1.010725719
+Sterling St._ 648,Winthrop St_ 671,1.008603612
+Sutphin Blvd-Archer Av-JFK Airport_ 650,Jamaica,1.003452564
+Times Sq-42 St_ 653,Penn Station NYC,1.008993505
+Times Sq-42 St_ 653,33rd St/Herald,1.008624743
+Times Sq-42 St_ 653,Grand Central Station,1.011979855
+Union St_ 655,Atlantic Ave/Barclays Center,1.011845583
+Vernon Blvd-Jackson Av_ 661,Grand Central Station,1.028308343
+Vernon Blvd-Jackson Av_ 661,Hunters Point,1.006104933
+Westchester Sq-East Tremont Av_ 668,Zerega Av_ 678,1.006448564
+WTC Cortlandt_ 676,World Trade Center Station_ 1368,1.00155727
+Edgewood MARC Station_ 679,Martin Airport MARC Station_ 680,1.175108869
+Edgewood MARC Station_ 679,Aberdeen,1.191050613
+Martin Airport MARC Station_ 680,"Penn Station, Baltimore",1.217412748
+West Baltimore MARC Station_ 681,Halethorpe MARC Station_ 688,1.087155496
+West Baltimore MARC Station_ 681,"Penn Station, Baltimore",1.045425057
+Odenton MARC Station_ 683,Bowie State University MARC Station_ 686,1.116419739
+Odenton MARC Station_ 683,BWI Airport,1.148123674
+Perryville MARC Station_ 684,Aberdeen,1.119174659
+Seabrook MARC Station_ 685,Bowie State University MARC Station_ 686,1.106146071
+Seabrook MARC Station_ 685,New Carrollton,1.046819521
+Halethorpe MARC Station_ 688,BWI Airport,1.06494186
+Jessup MARC Station_ 692,Savage MARC Station_ 696,1.045599291
+Jessup MARC Station_ 692,Dorsey MARC Station_ 699,1.053283872
+Laurel Race Track MARC Station_ 693,Laurel MARC Station_ 694,1.009779
+Laurel Race Track MARC Station_ 693,Savage MARC Station_ 696,1.047630124
+Laurel MARC Station_ 694,Muirkirk MARC Station_ 695,1.071943891
+Muirkirk MARC Station_ 695,Greenbelt,1.079328333
+Riverdale MARC Station_ 697,College Park,1.022581891
+Riverdale MARC Station_ 697,"Union Station, Washington, DC",1.120207239
+Dorsey MARC Station_ 699,St. Denis MARC Station_ 701,1.075692745
+St. Denis MARC Station_ 701,Camden Yards,1.123484942
+Duffields MARC Station_ 704,Harpers Ferry,1.117449369
+Duffields MARC Station_ 704,Martinsburg,1.1977306
+Barnesville MARC Station_ 706,Boyds MARC Station_ 707,1.082489375
+Barnesville MARC Station_ 706,Dickerson MARC Station_ 709,1.045303012
+Boyds MARC Station_ 707,Germantown MARC Station_ 711,1.049876278
+Brunswick MARC Station_ 708,Point of Rocks MARC Station_ 714,1.115727679
+Brunswick MARC Station_ 708,Harpers Ferry,1.113421758
+Dickerson MARC Station_ 709,Point of Rocks MARC Station_ 714,1.142187284
+Dickerson MARC Station_ 709,Monocacy MARC Station_ 719,1.229033922
+Gaithersburg MARC Station_ 710,Metro Grove MARC Station_ 713,1.038497147
+Gaithersburg MARC Station_ 710,Washington Grove MARC Station_ 717,1.018016529
+Germantown MARC Station_ 711,Metro Grove MARC Station_ 713,1.058130978
+Kensington MARC Station_ 712,Garrett Park MARC Station_ 718,1.029147857
+Kensington MARC Station_ 712,Silver Springs,1.064682318
+Washington Grove MARC Station_ 717,Rockville,1.080748626
+Garrett Park MARC Station_ 718,Rockville,1.085659218
+Monocacy MARC Station_ 719,Frederick MARC Station_ 720,1.04303466
+Backlick Road_ 723,Burke Centre_ 724,1.125365338
+Backlick Road_ 723,Rolling Road_ 726,1.081546104
+Backlick Road_ 723,Alexandria,1.134583994
+Burke Centre_ 724,Rolling Road_ 726,1.044063039
+Burke Centre_ 724,Manassas Park_ 738,1.161776142
+Lorton_ 727,Franconia/Springfield,1.087929768
+Lorton_ 727,Woodbridge,1.086697697
+Leeland Road_ 730,Brooke_ 732,1.081650671
+Leeland Road_ 730,Fredericksburg,1.071867578
+Brooke_ 732,Quantico,1.21385168
+Rippon_ 734,Woodbridge,1.0633748
+Rippon_ 734,Quantico,1.135967335
+Manassas Park_ 738,Manassas,1.040694527
+Broad Run/Airport_ 740,Manassas,1.068880288
+Spotsylvania_ 741,Fredericksburg,1.110762237
+Ramsey_ 742,Allendale_ 743,1.038262033
+Ramsey_ 742,Rte 17 Ramsey_ 801,1.02571036
+Allendale_ 743,Waldwick_ 744,1.026675169
+Waldwick_ 744,Ho-Ho-Kus_ 745,1.024045476
+Ho-Ho-Kus_ 745,Ridgewood_ 746,1.024579441
+Ridgewood_ 746,Glen Rock-Main_ 747,1.029227741
+Ridgewood_ 746,Glen Rock-Boro Hall_ 754,1.028660302
+Glen Rock-Main_ 747,Hawthorne_ 748,1.03417419
+Hawthorne_ 748,Paterson_ 749,1.041830367
+Paterson_ 749,Clifton_ 750,1.067529543
+Clifton_ 750,Passaic_ 751,1.033076911
+Passaic_ 751,Delawanna_ 752,1.025501608
+Delawanna_ 752,Lyndhurst_ 753,1.02218221
+Lyndhurst_ 753,Kingsland_ 790,1.011591097
+Glen Rock-Boro Hall_ 754,Radburn_ 755,1.031117997
+Radburn_ 755,Broadway_ 756,1.02533731
+Broadway_ 756,Plauderville_ 757,1.054355678
+Plauderville_ 757,Garfield_ 758,1.025807136
+Garfield_ 758,Wesmont_ 789,1.018775346
+Rutherford_ 759,Secaucus Junction Lower Level_ 787,1.097736097
+Rutherford_ 759,Wesmont_ 789,1.037617868
+Rutherford_ 759,Secaucus Junction Upper Level_ 804,1.097736097
+Spring Valley_ 760,Nanuet_ 761,1.043680048
+Nanuet_ 761,Pearl River_ 762,1.045339977
+Pearl River_ 762,Montvale_ 763,1.025332424
+Montvale_ 763,Park Ridge_ 828,1.014124676
+Point Pleasant_ 764,Manasquan_ 848,1.039146003
+Point Pleasant_ 764,Bay Head_ 898,1.021889544
+Spring Lake_ 765,Belmar_ 766,1.043012237
+Spring Lake_ 765,Manasquan_ 848,1.043989873
+Belmar_ 766,Bradley Beach_ 767,1.033728933
+Bradley Beach_ 767,Asbury Park_ 768,1.016852775
+Asbury Park_ 768,Allenhurst_ 769,1.032438384
+Allenhurst_ 769,Elberon_ 770,1.040030219
+Elberon_ 770,Long Branch_ 771,1.045724097
+Long Branch_ 771,Monmouth Park_ 772,1.036669601
+Monmouth Park_ 772,Little Silver_ 773,1.033378017
+Little Silver_ 773,Red Bank_ 774,1.046914152
+Red Bank_ 774,Middletown_ 775,1.073199295
+Middletown_ 775,Hazlet_ 776,1.087075069
+Hazlet_ 776,Aberdeen-Matawan_ 777,1.036197524
+Aberdeen-Matawan_ 777,South Amboy_ 778,1.108278212
+South Amboy_ 778,Perth Amboy_ 779,1.035820077
+Perth Amboy_ 779,Woodbridge_ 780,1.06640048
+Woodbridge_ 780,Avenel_ 781,1.029568126
+Avenel_ 781,Rahway_ 782,1.040268279
+Rahway_ 782,Linden_ 783,1.041963264
+Rahway_ 782,Metropark,1.077435044
+Linden_ 783,Elizabeth_ 784,1.066441927
+Elizabeth_ 784,North Elizabeth_ 785,1.019870648
+North Elizabeth_ 785,Liberty International,1.035275467
+Secaucus Junction Lower Level_ 787,Kingsland_ 790,1.081524159
+Secaucus Junction Lower Level_ 787,Wood-Ridge_ 838,1.116017417
+Secaucus Junction Lower Level_ 787,Newark Broad Street_ 889,1.103853928
+Secaucus Junction Lower Level_ 787,Meadowlands Rail Station_ 890,1.072813196
+Secaucus Junction Lower Level_ 787,Penn Station NYC,1.089447205
+Secaucus Junction Lower Level_ 787,Penn Station Newark,1.101096966
+Secaucus Junction Lower Level_ 787,Hoboken,1.062898691
+Kingsland_ 790,Secaucus Junction Upper Level_ 804,1.081524159
+Roselle Park_ 791,Union_ 802,1.037838179
+Roselle Park_ 791,Cranford_ 866,1.042050622
+Salisbury Mills-Cornwall_ 792,Campbell Hall_ 793,1.17409938
+Salisbury Mills-Cornwall_ 792,Harriman_ 799,1.20554182
+Campbell Hall_ 793,Middletown_ 794,1.109654018
+Middletown_ 794,Otisville_ 795,1.168215352
+Otisville_ 795,Port Jervis_ 796,1.221391405
+Sloatsburg_ 797,Tuxedo_ 798,1.052333004
+Sloatsburg_ 797,Suffern_ 907,1.072960615
+Tuxedo_ 798,Harriman_ 799,1.147032331
+Annandale_ 800,High Bridge_ 852,1.03560416
+Annandale_ 800,Lebanon_ 853,1.046966825
+Rte 17 Ramsey_ 801,Mahwah_ 908,1.02713226
+Union_ 802,Newark Broad Street_ 889,1.114129544
+Union_ 802,Penn Station Newark,1.106382537
+Montclair St Univ_ 803,Little Falls_ 825,1.043039899
+Montclair St Univ_ 803,Montclair Heights_ 826,1.017991306
+Secaucus Junction Upper Level_ 804,Wood-Ridge_ 838,1.116017417
+Secaucus Junction Upper Level_ 804,Newark Broad Street_ 889,1.103853928
+Secaucus Junction Upper Level_ 804,Meadowlands Rail Station_ 890,1.072813196
+Secaucus Junction Upper Level_ 804,Penn Station NYC,1.089447205
+Secaucus Junction Upper Level_ 804,Penn Station Newark,1.101096966
+Secaucus Junction Upper Level_ 804,Hoboken,1.062898691
+Woodcliff Lake_ 805,Park Ridge_ 828,1.01649832
+Woodcliff Lake_ 805,Hillsdale_ 829,1.026191634
+Mt Arlington_ 806,Lake Hopatcong_ 811,1.036631531
+Mt Arlington_ 806,Dover_ 812,1.083639185
+Mount Olive_ 808,Hackettstown_ 809,1.135019678
+Mount Olive_ 808,Netcong_ 810,1.02836286
+Netcong_ 810,Lake Hopatcong_ 811,1.045049138
+Dover_ 812,Denville_ 813,1.078792696
+Denville_ 813,Mount Tabor_ 814,1.011268258
+Denville_ 813,Mountain Lakes_ 820,1.050915474
+Mount Tabor_ 814,Morris Plains_ 815,1.066257845
+Morris Plains_ 815,Morristown_ 816,1.044393869
+Morristown_ 816,Convent Station_ 817,1.041447084
+Convent Station_ 817,Madison_ 818,1.043018557
+Madison_ 818,Chatham_ 819,1.039854045
+Chatham_ 819,Summit_ 879,1.044019407
+Mountain Lakes_ 820,Boonton_ 821,1.036717845
+Boonton_ 821,Towaco_ 822,1.073091229
+Towaco_ 822,Lincoln Park_ 823,1.044494616
+Lincoln Park_ 823,Mountain View-Wayne_ 824,1.038776687
+Mountain View-Wayne_ 824,Wayne Route 23 Transit Center_ 849,1.022402027
+Little Falls_ 825,Wayne Route 23 Transit Center_ 849,1.035776609
+Montclair Heights_ 826,Mountain Avenue_ 827,1.012723336
+Mountain Avenue_ 827,Upper Montclair_ 891,1.010346632
+Hillsdale_ 829,Westwood_ 830,1.01842839
+Westwood_ 830,Emerson_ 831,1.022826371
+Emerson_ 831,Oradell_ 832,1.030421758
+Oradell_ 832,River Edge_ 833,1.025727352
+River Edge_ 833,New Bridge Landing_ 834,1.034661276
+New Bridge Landing_ 834,Anderson Street-Hackensack_ 835,1.024778694
+Anderson Street-Hackensack_ 835,Essex Street-Hackensack_ 836,1.023328981
+Essex Street-Hackensack_ 836,Teterboro-Williams Ave_ 837,1.022850726
+Teterboro-Williams Ave_ 837,Wood-Ridge_ 838,1.034096541
+Metuchen_ 840,Edison_ 841,1.061849559
+Metuchen_ 840,Metropark,1.050813241
+Edison_ 841,New Brunswick,1.048619718
+Jersey Avenue_ 843,New Brunswick,1.036176964
+Jersey Avenue_ 843,Princeton Junction,1.280874193
+Lebanon_ 853,White House_ 854,1.075475431
+White House_ 854,North Branch_ 855,1.098252533
+North Branch_ 855,Raritan_ 856,1.060358063
+Raritan_ 856,Somerville_ 857,1.02280122
+Somerville_ 857,Bridgewater_ 858,1.066877269
+Bridgewater_ 858,Bound Brook_ 859,1.022559724
+Bound Brook_ 859,Dunellen_ 860,1.083348079
+Dunellen_ 860,Plainfield_ 861,1.059833077
+Plainfield_ 861,Netherwood_ 862,1.02330992
+Netherwood_ 862,Fanwood_ 863,1.025462732
+Fanwood_ 863,Westfield_ 864,1.041768948
+Westfield_ 864,Garwood_ 865,1.024643356
+Garwood_ 865,Cranford_ 866,1.023742431
+Gladstone_ 867,Peapack_ 868,1.01776771
+Peapack_ 868,Far Hills_ 869,1.04165771
+Far Hills_ 869,Bernardsville_ 870,1.079743422
+Bernardsville_ 870,Basking Ridge_ 871,1.018410625
+Basking Ridge_ 871,Lyons_ 872,1.03771313
+Lyons_ 872,Millington_ 873,1.031827697
+Millington_ 873,Stirling_ 874,1.031755685
+Stirling_ 874,Gillette_ 875,1.027600559
+Gillette_ 875,Berkeley Heights_ 877,1.027847165
+Murray Hill_ 876,Berkeley Heights_ 877,1.045582662
+Murray Hill_ 876,New Providence_ 878,1.029878089
+New Providence_ 878,Summit_ 879,1.031132891
+Summit_ 879,Short Hills_ 880,1.038114933
+Short Hills_ 880,Millburn_ 881,1.021252415
+Millburn_ 881,Maplewood_ 882,1.031175291
+Maplewood_ 882,South Orange_ 883,1.025994326
+South Orange_ 883,Mountain Station_ 884,1.015600305
+Mountain Station_ 884,Highland Avenue_ 885,1.01885472
+Highland Avenue_ 885,Orange_ 886,1.013265448
+Orange_ 886,Brick Church_ 887,1.017243382
+Brick Church_ 887,East Orange_ 888,1.010817341
+East Orange_ 888,Newark Broad Street_ 889,1.045573648
+Newark Broad Street_ 889,Watsessing_ 897,1.056731406
+Newark Broad Street_ 889,Hoboken,1.154123411
+Upper Montclair_ 891,Watchung Avenue_ 892,1.01771682
+Watchung Avenue_ 892,Walnut Street_ 893,1.01745531
+Walnut Street_ 893,Bay Street-Montclair_ 894,1.012755202
+Bay Street-Montclair_ 894,Glen Ridge_ 895,1.011471661
+Glen Ridge_ 895,Bloomfield_ 896,1.012081267
+Bloomfield_ 896,Watsessing_ 897,1.014127044
+Hammonton_ 903,Egg Harbor City_ 904,1.220266811
+Hammonton_ 903,Atco,1.242971472
+Egg Harbor City_ 904,Absecon_ 905,1.21347805
+Absecon_ 905,Atlantic City_ 906,1.107906446
+Suffern_ 907,Mahwah_ 908,1.027835352
+Capitol Heights_ 910,Benning Road_ 922,1.029072168
+Capitol Heights_ 910,Addison Road Seat Pleasant_ 923,1.019698329
+Morgan Boulevard_ 911,Addison Road Seat Pleasant_ 923,1.030111582
+Morgan Boulevard_ 911,Downtown Largo_ 928,1.032499854
+Georgia Ave Petworth_ 912,Fort Totten_ 919,1.030766078
+Georgia Ave Petworth_ 912,West Hyattsville_ 921,1.063761604
+Georgia Ave Petworth_ 912,Columbia Heights_ 994,1.016721729
+Takoma_ 913,Fort Totten_ 919,1.038195261
+Takoma_ 913,Silver Springs,1.028103071
+Glenmont_ 914,Wheaton_ 915,1.034232287
+Wheaton_ 915,Forest Glen_ 916,1.032618592
+Forest Glen_ 916,Silver Springs,1.032797789
+Brookland-CUA_ 918,Fort Totten_ 919,1.027447122
+Brookland-CUA_ 918,Rhode Island Ave_ 990,1.017113496
+Fort Totten_ 919,West Hyattsville_ 921,1.035870888
+Hyattsville Crossing_ 920,West Hyattsville_ 921,1.020826
+Hyattsville Crossing_ 920,College Park,1.034981253
+Benning Road_ 922,Stadium Armory_ 989,1.042701581
+Deanwood_ 924,Cheverly_ 927,1.023537705
+Deanwood_ 924,Minnesota Ave_ 991,1.017783939
+Landover_ 926,Cheverly_ 927,1.036474658
+Landover_ 926,New Carrollton,1.029299941
+NoMa - Gallaudet U_ 929,Rhode Island Ave_ 990,1.021161932
+NoMa - Gallaudet U_ 929,"Union Station, Washington, DC",1.013483166
+Rosslyn_ 930,Arlington Cemetery_ 931,1.018140672
+Rosslyn_ 930,Foggy Bottom GWU_ 952,1.023475057
+Rosslyn_ 930,Court House_ 953,1.01949256
+Arlington Cemetery_ 931,Pentagon_ 933,1.023551591
+Dupont Circle_ 932,Farragut North_ 959,1.009845176
+Dupont Circle_ 932,Woodley Park-Zoo Adams Morgan_ 960,1.023843164
+Pentagon_ 933,Pentagon City_ 963,1.012390036
+Pentagon_ 933,L'Enfants Plaza,1.041126961
+Navy Yard - Ballpark_ 935,Waterfront_ 966,1.013562446
+Navy Yard - Ballpark_ 935,Anacostia_ 986,1.021728459
+McPherson Sq_ 936,Farragut West_ 958,1.00770838
+McPherson Sq_ 936,Metro Center_ 973,1.007396996
+Shaw-Howard Univ_ 937,Mt Vernon Sq - 7th St Convention Center_ 975,1.009875249
+Shaw-Howard Univ_ 937,U St/African-Amer Civil War Memorial/Cardozo_ 976,1.007848699
+Southern Ave_ 938,Congress Heights_ 978,1.016040814
+Southern Ave_ 938,Naylor Road_ 979,1.025035865
+Tenleytown-AU_ 940,Friendship Heights_ 944,1.016038855
+Tenleytown-AU_ 940,Van Ness-UDC_ 992,1.019733464
+West Falls Church VT/UVA_ 941,Dunn Loring Merrifield_ 942,1.048023774
+West Falls Church VT/UVA_ 941,East Falls Church_ 955,1.04085764
+Dunn Loring Merrifield_ 942,Vienna Fairfax-GMU_ 943,1.050356156
+Friendship Heights_ 944,Bethesda_ 951,1.036333466
+Shady Grove_ 945,Rockville,1.053761861
+Twinbrook_ 947,North Bethesda_ 948,1.021885814
+Twinbrook_ 947,Rockville,1.04127602
+North Bethesda_ 948,Grosvenor-Strathmore_ 949,1.028236108
+North Bethesda_ 948,Rockville,1.062429948
+Grosvenor-Strathmore_ 949,Medical Center_ 950,1.041660851
+Medical Center_ 950,Bethesda_ 951,1.02218514
+Foggy Bottom GWU_ 952,Farragut West_ 958,1.010495985
+Court House_ 953,Clarendon_ 954,1.010251472
+Clarendon_ 954,Virginia Square-GMU_ 956,1.0095127
+East Falls Church_ 955,Ballston-MU_ 957,1.048023807
+East Falls Church_ 955,McLean_ 998,1.079364754
+Virginia Square-GMU_ 956,Ballston-MU_ 957,1.011251492
+Farragut North_ 959,Metro Center_ 973,1.014421785
+Woodley Park-Zoo Adams Morgan_ 960,Cleveland Park_ 993,1.014898136
+Smithsonian_ 962,Federal Triangle_ 964,1.007241451
+Smithsonian_ 962,L'Enfants Plaza,1.00743697
+Pentagon City_ 963,Crystal City,1.011990236
+Federal Triangle_ 964,Metro Center_ 973,1.007201261
+Archives-Navy Mem'l_ 965,Gallery Pl-Chinatown_ 974,1.006524885
+Archives-Navy Mem'l_ 965,L'Enfants Plaza,1.011560101
+Waterfront_ 966,L'Enfants Plaza,1.013548021
+Ronald Reagan Washington National Airport_ 967,Braddock Road_ 982,1.056083717
+Ronald Reagan Washington National Airport_ 967,Crystal City,1.009299135
+Van Dorn Street_ 968,Alexandria,1.074552942
+Van Dorn Street_ 968,Franconia/Springfield,1.063056801
+Federal Center SW_ 970,Capitol South_ 972,1.011714664
+Federal Center SW_ 970,L'Enfants Plaza,1.006849867
+Judiciary Sq_ 971,Gallery Pl-Chinatown_ 974,1.006552485
+Judiciary Sq_ 971,"Union Station, Washington, DC",1.011460047
+Capitol South_ 972,Eastern Market_ 987,1.009997125
+Metro Center_ 973,Gallery Pl-Chinatown_ 974,1.006727628
+Gallery Pl-Chinatown_ 974,Mt Vernon Sq - 7th St Convention Center_ 975,1.011390118
+U St/African-Amer Civil War Memorial/Cardozo_ 976,Columbia Heights_ 994,1.016169919
+Congress Heights_ 978,Anacostia_ 986,1.025404638
+Naylor Road_ 979,Suitland_ 980,1.028566253
+Suitland_ 980,Branch Ave_ 981,1.033181053
+Braddock Road_ 982,Alexandria,1.013773676
+Eisenhower Ave_ 984,Huntington_ 985,1.010285947
+Eisenhower Ave_ 984,Alexandria,1.013274246
+Eastern Market_ 987,Potomac Ave_ 988,1.012401457
+Potomac Ave_ 988,Stadium Armory_ 989,1.011941868
+Stadium Armory_ 989,Minnesota Ave_ 991,1.037468169
+Van Ness-UDC_ 992,Cleveland Park_ 993,1.013089499
+Spring Hill_ 995,Greensboro_ 996,1.014002164
+Spring Hill_ 995,Wiehle-Reston East_ 999,1.110654173
+Greensboro_ 996,Tysons Corner_ 997,1.013278897
+Tysons Corner_ 997,McLean_ 998,1.013798545
+Wiehle-Reston East_ 999,Reston Town Center_ 1005,1.023072189
+Ashburn_ 1000,Loudon Gateway_ 1001,1.037502069
+Loudon Gateway_ 1001,Washington Dulles International Airport_ 1002,1.053338936
+Washington Dulles International Airport_ 1002,Innovation Center_ 1003,1.03654016
+Innovation Center_ 1003,Herndon_ 1004,1.034690074
+Herndon_ 1004,Reston Town Center_ 1005,1.027264755
+Airport Terminal E & F_ 1006,Airport Terminal C & D_ 1008,1.00293269
+Eastwick_ 1007,Airport Terminal A_ 1010,1.022086833
+Eastwick_ 1007,University City_ 1079,1.098268906
+Airport Terminal C & D_ 1008,Airport Terminal B_ 1009,1.003450391
+Airport Terminal B_ 1009,Airport Terminal A_ 1010,1.002326664
+Race-Vine_ 1028,Spring Garden_ 1042,1.007694583
+Race-Vine_ 1028,City Hall_ 1050,1.00659117
+NRG_ 1029,Oregon_ 1036,1.016216108
+Snyder_ 1030,Tasker-Morris_ 1035,1.007773367
+Snyder_ 1030,Oregon_ 1036,1.010745304
+Ellsworth-Federal_ 1031,Tasker-Morris_ 1035,1.009023698
+Ellsworth-Federal_ 1031,Lombard-South_ 1051,1.011298618
+Walnut-Locust_ 1032,City Hall_ 1050,1.00514954
+Walnut-Locust_ 1032,Lombard-South_ 1051,1.006606987
+Walnut-Locust_ 1032,12th-13th & Locust Street_ 1208,1.003482011
+Walnut-Locust_ 1032,15th-16th & Locust Street_ 1213,1.002877873
+Fairmount_ 1033,Girard_ 1038,1.006313618
+Fairmount_ 1033,Spring Garden_ 1042,1.006554248
+Fairmount_ 1033,Chinatown_ 1044,1.017979715
+Olney Transportation Center_ 1034,Logan_ 1037,1.013023674
+Olney Transportation Center_ 1034,Fern Rock Transportation Center_ 1047,1.009285098
+Logan_ 1037,Wyoming_ 1049,1.007609699
+Girard_ 1038,Cecil B. Moore_ 1040,1.010303979
+Girard_ 1038,Girard (Broad Street)_ 1356,1.000640516
+8th_ 1039,Chinatown_ 1044,1.006313023
+8th_ 1039,8th Street_ 1133,1
+8th_ 1039,8th & Market Street_ 1214,1
+Cecil B. Moore_ 1040,Susquehanna-Dauphin_ 1045,1.011908385
+Allegheny_ 1041,North Philadelphia_ 1043,1.010652314
+Allegheny_ 1041,Erie_ 1046,1.010901207
+North Philadelphia_ 1043,Susquehanna-Dauphin_ 1045,1.00999103
+North Philadelphia_ 1043,North Philadelphia,1.003823345
+Erie_ 1046,Hunting Park_ 1048,1.012378315
+Fern Rock Transportation Center_ 1047,Fern Rock Transportation Center_ 1080,1.00244764
+Hunting Park_ 1048,Wyoming_ 1049,1.009378994
+City Hall_ 1050,15th St,1.00129661
+City Hall_ 1050,13th St,1.002561199
+Sedgwick_ 1052,Mount Airy_ 1054,1.007089571
+Sedgwick_ 1052,Stenton_ 1060,1.007663799
+Wister_ 1053,Germantown_ 1055,1.011432578
+Wister_ 1053,Wayne Junction_ 1292,1.019252503
+Mount Airy_ 1054,Wyndmoor_ 1056,1.013163355
+Germantown_ 1055,Washington Lane_ 1058,1.018591002
+Wyndmoor_ 1056,Gravers Lane_ 1057,1.007666995
+Gravers Lane_ 1057,Chestnut Hill East_ 1059,1.007729706
+Washington Lane_ 1058,Stenton_ 1060,1.01534719
+Carpenter_ 1061,Allen Lane_ 1064,1.009833914
+Carpenter_ 1061,Upsal_ 1066,1.012041352
+Tulpehocken_ 1062,Upsal_ 1066,1.01081153
+Tulpehocken_ 1062,Chelten Avenue_ 1068,1.009528569
+Queen Lane_ 1063,Chelten Avenue_ 1068,1.009957592
+Queen Lane_ 1063,North Philadelphia,1.044589719
+Allen Lane_ 1064,St. Martins_ 1065,1.015607699
+St. Martins_ 1065,Highland_ 1070,1.009451397
+Chestnut Hill West_ 1067,Highland_ 1070,1.008785072
+Wynnefield Avenue_ 1071,Bala_ 1073,1.015419945
+Wynnefield Avenue_ 1071,30th St,1.067008228
+Cynwyd_ 1072,Bala_ 1073,1.009167957
+Olney_ 1074,Lawndale_ 1078,1.032606145
+Olney_ 1074,Wayne Junction_ 1292,1.043071437
+Fox Chase_ 1075,Ryers_ 1076,1.017445531
+Ryers_ 1076,Cheltenham_ 1077,1.010439457
+Cheltenham_ 1077,Lawndale_ 1078,1.01441041
+University City_ 1079,49th Street_ 1144,1.028753216
+University City_ 1079,Darby_ 1326,1.084695109
+University City_ 1079,30th St,1.013861235
+Fern Rock Transportation Center_ 1080,Melrose Park_ 1081,1.026623538
+Fern Rock Transportation Center_ 1080,Wayne Junction_ 1292,1.037542837
+Melrose Park_ 1081,Elkins Park_ 1083,1.016532699
+Jenkintown-Wyncote_ 1082,Elkins Park_ 1083,1.032695094
+Jenkintown-Wyncote_ 1082,Glenside_ 1084,1.020547623
+Jenkintown-Wyncote_ 1082,Noble_ 1323,1.021146879
+Glenside_ 1084,North Hills_ 1094,1.022683662
+Glenside_ 1084,Ardsley_ 1305,1.017998845
+9th Street_ 1085,Fortuna_ 1092,1.018728224
+9th Street_ 1085,Lansdale_ 1097,1.012268068
+Link Belt_ 1086,Colmar_ 1093,1.010894763
+Link Belt_ 1086,Chalfont_ 1098,1.043226954
+Gwynedd Valley_ 1087,North Wales_ 1088,1.046773862
+Gwynedd Valley_ 1087,Penllyn_ 1096,1.025390635
+North Wales_ 1088,Pennbrook_ 1090,1.022628619
+Oreland_ 1089,North Hills_ 1094,1.017596141
+Oreland_ 1089,Fort Washington_ 1095,1.038088501
+Pennbrook_ 1090,Lansdale_ 1097,1.018540641
+Doylestown_ 1091,Delaware Valley College_ 1099,1.03532535
+Fortuna_ 1092,Colmar_ 1093,1.018103646
+Fort Washington_ 1095,Ambler_ 1101,1.02954977
+Penllyn_ 1096,Ambler_ 1101,1.030390226
+Chalfont_ 1098,New Britain_ 1100,1.03590661
+Delaware Valley College_ 1099,New Britain_ 1100,1.019126731
+Allegheny_ 1102,East Falls_ 1103,1.030728612
+Allegheny_ 1102,North Broad_ 1291,1.020256079
+East Falls_ 1103,Wissahickon Transportation Center_ 1104,1.020775768
+Wissahickon Transportation Center_ 1104,Manayunk_ 1110,1.021332389
+Spring Mill_ 1105,Conshohocken_ 1106,1.024440136
+Spring Mill_ 1105,Miquon_ 1112,1.030465606
+Conshohocken_ 1106,Norristown Transportation Center_ 1108,1.068422672
+Main Street_ 1107,Norristown Transportation Center_ 1108,1.007861762
+Main Street_ 1107,Norristown,1.003762318
+Norristown Transportation Center_ 1108,Norristown,1.006263247
+Manayunk_ 1110,Ivy Ridge_ 1111,1.015357801
+Ivy Ridge_ 1111,Miquon_ 1112,1.047702729
+34th Street_ 1113,40th Street_ 1130,1.011415816
+34th Street_ 1113,30th St,1.009655193
+69th Street Transportation Center_ 1114,Millbourne_ 1120,1.007675611
+69th Street Transportation Center_ 1114,Parkview_ 1163,1.018173219
+69th Street Transportation Center_ 1114,Fairfield Avenue_ 1247,1.005518128
+York-Dauphin_ 1115,Berks_ 1132,1.00968415
+York-Dauphin_ 1115,Huntingdon_ 1136,1.006828917
+63rd Street_ 1116,Millbourne_ 1120,1.00676493
+63rd Street_ 1116,60th Street_ 1138,1.006515025
+2nd Street_ 1117,Spring Garden_ 1122,1.015472509
+2nd Street_ 1117,5th Street_ 1140,1.005763135
+Arrott Transportation Center_ 1118,Frankford Transportation Center_ 1129,1.010836146
+Arrott Transportation Center_ 1118,Church_ 1139,1.010316473
+Tioga_ 1119,Erie-Torresdale_ 1128,1.013473236
+Tioga_ 1119,Allegheny_ 1135,1.009331371
+Spring Garden_ 1122,Girard_ 1125,1.012591103
+11th Street_ 1123,8th Street_ 1133,1.005118279
+11th Street_ 1123,Jefferson Station_ 1288,1.001418787
+11th Street_ 1123,13th St,1.003873936
+56th Street_ 1124,52nd Street_ 1127,1.008627588
+56th Street_ 1124,60th Street_ 1138,1.008615483
+Girard_ 1125,Berks_ 1132,1.013928124
+Girard_ 1125,Girard (Market-Frankford)_ 1357,1.000464518
+52nd Street_ 1127,46th Street_ 1131,1.011837695
+Erie-Torresdale_ 1128,Church_ 1139,1.009863615
+40th Street_ 1130,46th Street_ 1131,1.013124037
+8th Street_ 1133,5th Street_ 1140,1.005021942
+Allegheny_ 1135,Somerset_ 1137,1.011703028
+Huntingdon_ 1136,Somerset_ 1137,1.006805205
+Clifton-Aldan_ 1141,Gladstone_ 1147,1.01228071
+Clifton-Aldan_ 1141,Primos_ 1151,1.010924769
+Clifton-Aldan_ 1141,Clifton-Aldan_ 1283,1.001612016
+Lansdowne_ 1142,Gladstone_ 1147,1.013140691
+Lansdowne_ 1142,Fernwood-Yeadon_ 1154,1.017124053
+Angora_ 1143,49th Street_ 1144,1.023578034
+Angora_ 1143,Fernwood-Yeadon_ 1154,1.020159229
+Swarthmore_ 1145,Morton_ 1149,1.025394083
+Swarthmore_ 1145,Wallingford_ 1152,1.022376374
+Secane_ 1146,Morton_ 1149,1.022804819
+Secane_ 1146,Primos_ 1151,1.015095724
+Media_ 1148,Elwyn_ 1150,1.019907233
+Media_ 1148,Moylan-Rose Valley_ 1153,1.013756087
+Elwyn_ 1150,Wawa_ 1155,1.052723687
+Wallingford_ 1152,Moylan-Rose Valley_ 1153,1.017994763
+Gulph Mills_ 1156,Matsonford_ 1162,1.018624515
+Gulph Mills_ 1156,Hughes Park_ 1177,1.015742952
+Penfield_ 1157,Beechwood-Brookline_ 1159,1.011406377
+Penfield_ 1157,Township Line Road_ 1171,1.009055374
+Wynnewood Road_ 1158,Beechwood-Brookline_ 1159,1.011949845
+Wynnewood Road_ 1158,Ardmore Junction_ 1176,1.006828703
+Bryn Mawr_ 1160,Roberts Road_ 1164,1.00887709
+Bryn Mawr_ 1160,Haverford_ 1172,1.014103983
+Radnor_ 1161,Villanova_ 1173,1.015214188
+Radnor_ 1161,County Line_ 1175,1.013203141
+Matsonford_ 1162,County Line_ 1175,1.013995198
+Parkview_ 1163,Township Line Road_ 1171,1.011628842
+Roberts Road_ 1164,Garrett Hill_ 1165,1.010963983
+Garrett Hill_ 1165,Stadium (Ithan Avenue)_ 1167,1.008431661
+Ardmore Avenue_ 1166,Haverford_ 1172,1.015452054
+Ardmore Avenue_ 1166,Ardmore Junction_ 1176,1.008335054
+Stadium (Ithan Avenue)_ 1167,Villanova_ 1173,1.003932607
+Bridgeport_ 1168,DeKalb Street_ 1174,1.009411766
+Bridgeport_ 1168,Norristown,1.017418104
+DeKalb Street_ 1174,Hughes Park_ 1177,1.024942166
+Merion_ 1182,Narberth_ 1185,1.014922927
+Merion_ 1182,Overbrook_ 1190,1.010883614
+Rosemont_ 1183,Bryn Mawr_ 1192,1.01504544
+Rosemont_ 1183,Villanova_ 1197,1.021839158
+Ardmore_ 1184,Haverford_ 1191,1.013101626
+Ardmore_ 1184,Wynnewood_ 1203,1.020067409
+Ardmore_ 1184,Ardmore,1.000106773
+Narberth_ 1185,Wynnewood_ 1203,1.012765463
+Daylesford_ 1186,Paoli_ 1187,1.024859442
+Daylesford_ 1186,Berwyn_ 1202,1.020764321
+Paoli_ 1187,Malvern_ 1200,1.035373472
+Paoli_ 1187,"'Paoli, PA'_ 1754",1.000261734
+Downingtown_ 1188,Thorndale_ 1194,1.057715642
+Downingtown_ 1188,Whitford_ 1201,1.079506806
+St. Davids_ 1189,Wayne_ 1195,1.01499292
+St. Davids_ 1189,Radnor_ 1196,1.015035412
+Overbrook_ 1190,30th St,1.086836845
+Haverford_ 1191,Bryn Mawr_ 1192,1.020270263
+Exton_ 1193,Malvern_ 1200,1.116517056
+Exton_ 1193,Whitford_ 1201,1.019105663
+Wayne_ 1195,Strafford_ 1199,1.018559222
+Radnor_ 1196,Villanova_ 1197,1.020313156
+Devon_ 1198,Strafford_ 1199,1.020914384
+Devon_ 1198,Berwyn_ 1202,1.020970074
+Collingswood_ 1204,Westmont_ 1210,1.021043296
+Collingswood_ 1204,Ferry Avenue_ 1216,1.031930455
+9th-10th & Locust Street_ 1205,12th-13th & Locust Street_ 1208,1.005075442
+9th-10th & Locust Street_ 1205,8th & Market Street_ 1214,1.006408984
+Broadway_ 1206,City Hall_ 1209,1.003793228
+Broadway_ 1206,Ferry Avenue_ 1216,1.041692647
+Broadway_ 1206,Walter Rand Transportation Center_ 1229,1.000513845
+Woodcrest_ 1207,Ashland_ 1212,1.016247003
+Woodcrest_ 1207,Haddonfield_ 1215,1.047094098
+12th-13th & Locust Street_ 1208,15th-16th & Locust Street_ 1213,1.006025485
+City Hall_ 1209,8th & Market Street_ 1214,1.035815246
+Westmont_ 1210,Haddonfield_ 1215,1.017377669
+Lindenwold_ 1211,Ashland_ 1212,1.036112755
+Lindenwold_ 1211,Lindenwold,1.000156964
+Bordentown_ 1217,Cass Street_ 1220,1.090048981
+Bordentown_ 1217,Roebling_ 1233,1.072688501
+Palmyra_ 1218,Riverton_ 1227,1.010903228
+Palmyra_ 1218,Pennsauken/Route 73_ 1228,1.024560948
+Cass Street_ 1220,Hamilton Avenue_ 1223,1.009304919
+Cooper Street/Rutgers University_ 1221,Walter Rand Transportation Center_ 1229,1.007897859
+Cooper Street/Rutgers University_ 1221,Aquarium_ 1234,1.005147467
+Burlington South_ 1222,Burlington Town Centre_ 1226,1.010983538
+Burlington South_ 1222,Beverly/Edgewater Park_ 1230,1.053000053
+Hamilton Avenue_ 1223,Trenton,1.009463709
+Florence_ 1224,Burlington Town Centre_ 1226,1.066433756
+Florence_ 1224,Roebling_ 1233,1.044269729
+Delanco_ 1225,Beverly/Edgewater Park_ 1230,1.042006454
+Delanco_ 1225,Riverside_ 1231,1.015412142
+Riverton_ 1227,Cinnaminson_ 1236,1.017710978
+Pennsauken/Route 73_ 1228,Pennsauken,1.032711355
+Walter Rand Transportation Center_ 1229,36th Street_ 1237,1.051032593
+Riverside_ 1231,Cinnaminson_ 1236,1.054368449
+Entertainment Center_ 1232,Aquarium_ 1234,1.006674102
+36th Street_ 1237,Pennsauken,1.029844101
+Congress Avenue_ 1238,Beverly Boulevard_ 1243,1.005739599
+Congress Avenue_ 1238,Lansdowne Avenue_ 1245,1.004080705
+Irvington Road_ 1239,Drexel Hill Junction_ 1240,1.004538805
+Irvington Road_ 1239,Drexel Park_ 1248,1.002623586
+Drexel Hill Junction_ 1240,Huey Avenue_ 1261,1.00549602
+Drexel Hill Junction_ 1240,Garretford_ 1285,1.005372287
+Walnut Street_ 1241,Avon Road_ 1246,1.003216476
+Walnut Street_ 1241,Fairfield Avenue_ 1247,1.003926628
+Hilltop Road_ 1242,Beverly Boulevard_ 1243,1.002148064
+Hilltop Road_ 1242,Avon Road_ 1246,1.004828856
+Lansdowne Avenue_ 1245,Drexel Park_ 1248,1.005508845
+Veterans Square_ 1249,Olive Street_ 1269,1.001059719
+Veterans Square_ 1249,Orange Street_ 1271,1.001049209
+Jackson Street_ 1250,Monroe Street_ 1264,1.002019675
+Jackson Street_ 1250,Olive Street_ 1269,1.001785555
+Anderson Avenue_ 1251,Drexelbrook_ 1260,1.003554317
+Anderson Avenue_ 1251,Aronimink_ 1266,1.007483647
+Paper Mill Road_ 1252,Springfield Mall_ 1262,1.010344414
+Paper Mill Road_ 1252,Pine Ridge_ 1263,1.012998479
+Thomson Avenue_ 1253,Springfield Mall_ 1262,1.005661865
+Thomson Avenue_ 1253,Woodland Avenue_ 1270,1.008076673
+Beatty Road_ 1254,Pine Ridge_ 1263,1.00766196
+Beatty Road_ 1254,Providence Road_ 1272,1.004162326
+Drexeline_ 1255,Drexelbrook_ 1260,1.006733121
+Drexeline_ 1255,Scenic Road_ 1265,1.007421225
+School Avenue_ 1256,Huey Avenue_ 1261,1.002816384
+School Avenue_ 1256,Aronimink_ 1266,1.006719025
+Edgmont Street_ 1257,Manchester Avenue_ 1258,1.003053211
+Edgmont Street_ 1257,Monroe Street_ 1264,1.002139152
+Manchester Avenue_ 1258,Providence Road_ 1272,1.00233077
+Saxer Avenue_ 1259,Leamy Avenue_ 1267,1.005325546
+Saxer Avenue_ 1259,Springfield Road_ 1268,1.00912963
+Scenic Road_ 1265,Springfield Road_ 1268,1.009693156
+Leamy Avenue_ 1267,Woodland Avenue_ 1270,1.003283665
+Andrews Avenue_ 1273,Collingdale_ 1274,1.002182236
+Andrews Avenue_ 1273,Bartram Avenue_ 1284,1.004714781
+Collingdale_ 1274,Sharon Hill_ 1281,1.006214517
+North Street_ 1275,Magnolia Avenue_ 1279,1.002779288
+North Street_ 1275,Bartram Avenue_ 1284,1.004501355
+Penn Street_ 1276,Baltimore Pike_ 1277,1.003589839
+Penn Street_ 1276,Springfield Road_ 1280,1.002053436
+Baltimore Pike_ 1277,Oakview_ 1282,1.00599117
+Drexel Manor_ 1278,Garretford_ 1285,1.002681831
+Drexel Manor_ 1278,Marshall Road_ 1286,1.002874849
+Magnolia Avenue_ 1279,Providence Road_ 1287,1.003809226
+Springfield Road_ 1280,Clifton-Aldan_ 1283,1.003845852
+Oakview_ 1282,Marshall Road_ 1286,1.007258444
+Clifton-Aldan_ 1283,Providence Road_ 1287,1.005578457
+Jefferson Station_ 1288,Temple University_ 1289,1.041812292
+Jefferson Station_ 1288,Suburban Station_ 1293,1.009881254
+Temple University_ 1289,North Broad_ 1291,1.015620899
+North Broad_ 1291,Wayne Junction_ 1292,1.042948741
+Suburban Station_ 1293,15th St,1.003146689
+Suburban Station_ 1293,30th St,1.016440224
+Torresdale_ 1295,Holmesburg Junction_ 1296,1.052152235
+Torresdale_ 1295,Cornwells Heights,1.042304922
+Holmesburg Junction_ 1296,Tacony_ 1303,1.020980113
+Bridesburg_ 1297,Tacony_ 1303,1.037504217
+Bridesburg_ 1297,North Philadelphia,1.093648671
+Bristol_ 1299,Croydon_ 1300,1.05799725
+Bristol_ 1299,Levittown_ 1304,1.063794258
+Croydon_ 1300,Eddington_ 1301,1.03267743
+Eddington_ 1301,Cornwells Heights,1.025388843
+Levittown_ 1304,Trenton,1.12881068
+Ardsley_ 1305,Roslyn_ 1306,1.022376635
+Roslyn_ 1306,Crestmont_ 1309,1.024138513
+Willow Grove_ 1307,Hatboro_ 1308,1.047624487
+Willow Grove_ 1307,Crestmont_ 1309,1.015320623
+Hatboro_ 1308,Warminster_ 1310,1.029922694
+Langhorne_ 1311,Neshaminy Falls_ 1313,1.056014557
+Langhorne_ 1311,Woodbourne_ 1316,1.04862313
+Meadowbrook_ 1312,Rydal_ 1315,1.020246374
+Meadowbrook_ 1312,Bethayres_ 1318,1.026530043
+Neshaminy Falls_ 1313,Trevose_ 1322,1.024018677
+Forest Hills_ 1314,Somerton_ 1317,1.010083708
+Forest Hills_ 1314,Philmont_ 1321,1.026110238
+Rydal_ 1315,Noble_ 1323,1.015455615
+Woodbourne_ 1316,Yardley_ 1319,1.089259781
+Somerton_ 1317,Trevose_ 1322,1.034134252
+Bethayres_ 1318,Philmont_ 1321,1.027780255
+Yardley_ 1319,West Trenton_ 1320,1.035337758
+Glenolden_ 1325,Norwood_ 1332,1.014612312
+Glenolden_ 1325,Folcroft_ 1333,1.012624192
+Darby_ 1326,Curtis Park_ 1330,1.013162702
+Prospect Park_ 1327,Norwood_ 1332,1.009033663
+Prospect Park_ 1327,Ridley Park_ 1335,1.017055149
+Highland Avenue_ 1328,Marcus Hook_ 1329,1.033280099
+Highland Avenue_ 1328,Chester Transportation Center_ 1337,1.041815888
+Marcus Hook_ 1329,Claymont_ 1340,1.048639886
+Curtis Park_ 1330,Sharon Hill_ 1331,1.008738762
+Sharon Hill_ 1331,Folcroft_ 1333,1.010500829
+Eddystone_ 1334,Crum Lynne_ 1336,1.023388506
+Eddystone_ 1334,Chester Transportation Center_ 1337,1.022658336
+Ridley Park_ 1335,Crum Lynne_ 1336,1.015661177
+Churchmans Crossing_ 1338,Wilmington,1.144686362
+Churchmans Crossing_ 1338,"Newark, DE",1.092969519
+Claymont_ 1340,Wilmington,1.136227645
+19th Street_ 1343,22nd Street_ 1344,1.005489666
+19th Street_ 1343,15th St,1.006860463
+22nd Street_ 1344,30th St,1.006700241
+33rd Street_ 1346,Overbrook_ 1347,1.073235539
+33rd Street_ 1346,36th Street_ 1348,1.005338424
+33rd Street_ 1346,30th St,1.007356598
+36th Street_ 1348,37th Street_ 1349,1.006956607
+37th Street_ 1349,40th Street Portal_ 1350,1.006820835
+40th Street Portal_ 1350,Angora_ 1351,1.046933495
+40th Street Portal_ 1350,Yeadon_ 1352,1.063228606
+40th Street Portal_ 1350,Darby_ 1353,1.077121197
+40th Street Portal_ 1350,Eastwick_ 1354,1.081007273
+63rd & Girard_ 1355,Girard (Broad Street)_ 1356,1.091666944
+Girard (Broad Street)_ 1356,Girard (Market-Frankford)_ 1357,1.025678669
+Girard (Market-Frankford)_ 1357,Frankford & Delaware_ 1358,1.006067751
+Girard (Market-Frankford)_ 1357,Port Richmond_ 1359,1.045655592
+Christopher Street_ 1364,Pavonia/Newport_ 1366,1.029416996
+Christopher Street_ 1364,Hoboken,1.022051672
+Christopher Street_ 1364,West 4th/Washington Sq/9th St,1.008264037
+Pavonia/Newport_ 1366,Exchange Place_ 1367,1.014426359
+Pavonia/Newport_ 1366,Grove Street_ 1369,1.014029682
+Pavonia/Newport_ 1366,Hoboken,1.012724911
+Exchange Place_ 1367,World Trade Center Station_ 1368,1.024164509
+Exchange Place_ 1367,Grove Street_ 1369,1.011499702
+Grove Street_ 1369,Journal Square_ 1370,1.027221396
+Journal Square_ 1370,Harrison_ 1372,1.100916274
+Harrison_ 1372,Penn Station Newark,1.009352316
+Yankees-E 153 St_ 1375,Highbridge Yard_ 1376,1.01496553
+Yankees-E 153 St_ 1375,125th St,1.030333623
+Highbridge Yard_ 1376,Morris Heights_ 1377,1.028681005
+Morris Heights_ 1377,University Heights_ 1378,1.013146008
+University Heights_ 1378,Marble Hill,1.01735584
+Spuyten Duyvil_ 1380,Riverdale_ 1381,1.036927548
+Spuyten Duyvil_ 1380,Marble Hill,1.012892387
+Riverdale_ 1381,Ludlow_ 1382,1.031123796
+Ludlow_ 1382,Yonkers,1.015211849
+Glenwood_ 1384,Greystone_ 1385,1.032902309
+Glenwood_ 1384,Yonkers,1.021073186
+Greystone_ 1385,Hastings-on-Hudson_ 1386,1.030409198
+Hastings-on-Hudson_ 1386,Dobbs Ferry_ 1387,1.026283246
+Dobbs Ferry_ 1387,Ardsley-on-Hudson_ 1388,1.019522764
+Ardsley-on-Hudson_ 1388,Irvington_ 1389,1.019693859
+Irvington_ 1389,Tarrytown_ 1390,1.051958812
+Tarrytown_ 1390,Philipse Manor_ 1391,1.026451888
+Philipse Manor_ 1391,Scarborough_ 1392,1.057417053
+Scarborough_ 1392,Ossining_ 1393,1.03089569
+Ossining_ 1393,Croton-Harmon,1.047301569
+Cortlandt_ 1395,Peekskill_ 1396,1.056414859
+Cortlandt_ 1395,Croton-Harmon,1.089355377
+Peekskill_ 1396,Manitou_ 1397,1.077825827
+Manitou_ 1397,Garrison_ 1398,1.073190049
+Garrison_ 1398,Cold Spring_ 1399,1.04837174
+Cold Spring_ 1399,Breakneck Ridge_ 1400,1.055250183
+Breakneck Ridge_ 1400,Beacon_ 1401,1.075534599
+Beacon_ 1401,New Hamburg_ 1402,1.123422161
+New Hamburg_ 1402,Poughkeepsie,1.16722651
+Melrose_ 1404,Tremont_ 1405,1.034494558
+Melrose_ 1404,125th St,1.03847896
+Tremont_ 1405,Fordham_ 1406,1.022074226
+Fordham_ 1406,Botanical Garden_ 1407,1.010634467
+Botanical Garden_ 1407,Williams Bridge_ 1408,1.021147768
+Williams Bridge_ 1408,Woodlawn/233rd St,1.024863265
+Wakefield_ 1410,Mt Vernon West_ 1411,1.009952818
+Wakefield_ 1410,Woodlawn/233rd St,1.01705756
+Mt Vernon West_ 1411,Fleetwood_ 1412,1.024212492
+Fleetwood_ 1412,Bronxville_ 1413,1.018503196
+Bronxville_ 1413,Tuckahoe_ 1414,1.014504052
+Tuckahoe_ 1414,Crestwood_ 1415,1.016880818
+Crestwood_ 1415,Scarsdale_ 1416,1.044167289
+Scarsdale_ 1416,Hartsdale_ 1417,1.032387751
+Hartsdale_ 1417,White Plains_ 1418,1.038444186
+White Plains_ 1418,North White Plains_ 1419,1.024249403
+North White Plains_ 1419,Valhalla_ 1420,1.032285983
+Valhalla_ 1420,Mt Pleasant_ 1421,1.039365462
+Mt Pleasant_ 1421,Hawthorne_ 1422,1.018004053
+Hawthorne_ 1422,Pleasantville_ 1423,1.037561899
+Pleasantville_ 1423,Chappaqua_ 1424,1.037078131
+Chappaqua_ 1424,Mt Kisco_ 1425,1.085038053
+Mt Kisco_ 1425,Bedford Hills_ 1426,1.051522341
+Bedford Hills_ 1426,Katonah_ 1427,1.035353627
+Katonah_ 1427,Goldens Bridge_ 1428,1.049273912
+Goldens Bridge_ 1428,Purdy's_ 1429,1.048253643
+Purdy's_ 1429,Croton Falls_ 1430,1.030970425
+Croton Falls_ 1430,Brewster_ 1431,1.079362626
+Brewster_ 1431,Southeast_ 1432,1.026609612
+Southeast_ 1432,Patterson_ 1433,1.139807132
+Patterson_ 1433,Pawling_ 1434,1.073595409
+Pawling_ 1434,Appalachian Trail_ 1435,1.042293009
+Appalachian Trail_ 1435,Harlem Valley-Wingdale_ 1436,1.065006311
+Harlem Valley-Wingdale_ 1436,Dover Plains_ 1437,1.144403578
+Dover Plains_ 1437,Tenmile River_ 1438,1.058671327
+Tenmile River_ 1438,Wassaic_ 1439,1.048970681
+Mt Vernon East_ 1440,Pelham_ 1441,1.023403939
+Mt Vernon East_ 1440,Woodlawn/233rd St,1.038851413
+Pelham_ 1441,New Rochelle,1.027797715
+Larchmont_ 1443,Mamaroneck_ 1444,1.038330822
+Larchmont_ 1443,New Rochelle,1.040030994
+Mamaroneck_ 1444,Harrison_ 1445,1.032661676
+Harrison_ 1445,Rye_ 1446,1.039651372
+Rye_ 1446,Port Chester_ 1447,1.028086606
+Port Chester_ 1447,Greenwich_ 1448,1.051285481
+Greenwich_ 1448,Cos Cob_ 1449,1.030514384
+Cos Cob_ 1449,Riverside_ 1450,1.010929733
+Riverside_ 1450,Old Greenwich_ 1451,1.023800122
+Old Greenwich_ 1451,Stamford,1.030903096
+Glenbrook_ 1453,Springdale MW Facility_ 1454,1.016275705
+Glenbrook_ 1453,Stamford,1.040709874
+Springdale MW Facility_ 1454,Springdale_ 1455,1.009479528
+Springdale_ 1455,Talmadge Hill_ 1456,1.043519839
+Talmadge Hill_ 1456,New Canaan_ 1457,1.04257623
+Noroton Heights_ 1458,Darien_ 1459,1.028566418
+Noroton Heights_ 1458,Stamford,1.056374829
+Darien_ 1459,Rowayton_ 1460,1.029024218
+Rowayton_ 1460,South Norwalk,1.03736517
+Merritt 7_ 1462,Wilton_ 1463,1.069720193
+Merritt 7_ 1462,South Norwalk,1.070339169
+Wilton_ 1463,Cannondale_ 1464,1.029272428
+Cannondale_ 1464,Branchville_ 1465,1.07321755
+Branchville_ 1465,Redding_ 1466,1.08182881
+Redding_ 1466,Bethel_ 1467,1.072780129
+Bethel_ 1467,Danbury_ 1468,1.043949465
+East Norwalk_ 1469,Westport_ 1470,1.040841173
+East Norwalk_ 1469,South Norwalk,1.020240961
+Westport_ 1470,Green's Farms_ 1471,1.059365841
+Green's Farms_ 1471,Southport_ 1472,1.033040031
+Southport_ 1472,Fairfield_ 1473,1.034952686
+Fairfield_ 1473,Fairfield Metro_ 1474,1.035259361
+Fairfield Metro_ 1474,Bridgeport,1.055439763
+Derby-Shelton_ 1477,Ansonia_ 1478,1.034495373
+Derby-Shelton_ 1477,Stratford,1.183119527
+Ansonia_ 1478,Seymour_ 1479,1.071937265
+Seymour_ 1479,Beacon Falls_ 1480,1.066053313
+Beacon Falls_ 1480,Naugatuck_ 1481,1.074467996
+Naugatuck_ 1481,Waterbury_ 1482,1.08237884
+Hunt Valley Light Rail Station_ 1487,Pepper Road Light Rail Station_ 1488,1.00624505
+Pepper Road Light Rail Station_ 1488,McCormick Road Light Rail Station_ 1489,1.004606402
+McCormick Road Light Rail Station_ 1489,Gilroy Road Light Rail Station_ 1490,1.010788133
+Gilroy Road Light Rail Station_ 1490,Warren Road Light Rail Station_ 1491,1.01232265
+Warren Road Light Rail Station_ 1491,Fairgrounds Light Rail Station_ 1492,1.043423325
+Fairgrounds Light Rail Station_ 1492,Timonium Business Park Station_ 1493,1.021864275
+Timonium Business Park Station_ 1493,Lutherville Light Rail Station_ 1494,1.006971488
+Lutherville Light Rail Station_ 1494,Falls Road Light Rail Station_ 1495,1.077380925
+Falls Road Light Rail Station_ 1495,Mount Washington Light Rail Station_ 1496,1.011760252
+Mount Washington Light Rail Station_ 1496,Cold Spring Light Rail Station_ 1497,1.034486969
+Cold Spring Light Rail Station_ 1497,Woodberry Light Rail Station_ 1498,1.018757693
+Woodberry Light Rail Station_ 1498,North Avenue Light Rail Station_ 1499,1.035260258
+North Avenue Light Rail Station_ 1499,Mt. Royal Light Rail Station_ 1501,1.00696289
+Mt. Royal Light Rail Station_ 1501,Cultural Center Light Rail Station_ 1502,1.005219353
+Mt. Royal Light Rail Station_ 1501,"Penn Station, Baltimore",1.004571066
+Cultural Center Light Rail Station_ 1502,Mt Vernon Light Rail Station_ 1503,1.009884689
+Mt Vernon Light Rail Station_ 1503,Lexington Market Light Rail Station_ 1517,1.006468406
+Mt Vernon Light Rail Station_ 1503,Cherry Hill Light Rail Station_ 1518,1.059278515
+Convention Center Light Rail Station_ 1504,Baltimore Arena Light Rail Station_ 1516,1.003966661
+Convention Center Light Rail Station_ 1504,Camden Yards,1.003832715
+Stadium Federal Hill Light Rail Station_ 1506,Westport Light Rail Station_ 1507,1.025783593
+Stadium Federal Hill Light Rail Station_ 1506,Camden Yards,1.007617535
+Westport Light Rail Station_ 1507,Cherry Hill Light Rail Station_ 1518,1.008707798
+Patapsco Light Rail Station_ 1508,Baltimore Highlands Light Rail Station_ 1509,1.010157648
+Patapsco Light Rail Station_ 1508,Cherry Hill Light Rail Station_ 1518,1.020374648
+Baltimore Highlands Light Rail Station_ 1509,Nursery Road Light Rail Station_ 1510,1.021128762
+Nursery Road Light Rail Station_ 1510,North Linthicum Light Rail Station_ 1511,1.011331631
+North Linthicum Light Rail Station_ 1511,Linthicum Light Rail Station_ 1512,1.019637689
+Linthicum Light Rail Station_ 1512,BWI Business District Light Rail Station_ 1513,1.024655354
+Linthicum Light Rail Station_ 1512,Ferndale Light Rail Station_ 1515,1.030943792
+BWI Business District Light Rail Station_ 1513,BWI Airport Light Rail Station_ 1514,1.014101516
+Ferndale Light Rail Station_ 1515,Glen Burnie Light Rail Station_ 1519,1.017787761
+Baltimore Arena Light Rail Station_ 1516,Lexington Market Light Rail Station_ 1517,1.004593439
+Old Court Metro Station_ 1520,Owings Mills Metro Station_ 1521,1.06386747
+Old Court Metro Station_ 1520,Milford Mill Metro Station_ 1522,1.030265801
+Milford Mill Metro Station_ 1522,Reisterstown Plaza Metro Station_ 1523,1.020350098
+Reisterstown Plaza Metro Station_ 1523,Rogers Avenue Metro Station_ 1524,1.017095499
+Rogers Avenue Metro Station_ 1524,West Cold Spring Metro Station_ 1525,1.024264476
+West Cold Spring Metro Station_ 1525,Mondawmin Metro Station_ 1531,1.033463068
+Johns Hopkins Metro Station_ 1526,Shot Tower Metro Station_ 1533,1.017768145
+Chalres Center Metro Station_ 1527,Lexington Market Metro Station_ 1528,1.00611463
+Chalres Center Metro Station_ 1527,Shot Tower Metro Station_ 1533,1.010789053
+Lexington Market Metro Station_ 1528,State Center Metro Station_ 1529,1.014334692
+State Center Metro Station_ 1529,Upton Metro Station_ 1530,1.014345495
+Upton Metro Station_ 1530,Penn-North Metro Station_ 1532,1.011313853
+Mondawmin Metro Station_ 1531,Penn-North Metro Station_ 1532,1.015610818
+Long Island City_ 1534,Hunters Point,1.009184683
+Kew Gardens_ 1539,Jamaica,1.030356327
+Kew Gardens_ 1539,"Forest Hills, NY",1.021213976
+Mets-Willets Point_ 1544,Flushing,1.016448923
+Mets-Willets Point_ 1544,Woodside,1.063679795
+Murray Hill_ 1546,Broadway_ 1547,1.013659403
+Murray Hill_ 1546,Flushing,1.018033647
+Broadway_ 1547,Auburndale_ 1548,1.012540604
+Auburndale_ 1548,Bayside_ 1549,1.02002278
+Bayside_ 1549,Douglaston_ 1550,1.024207537
+Douglaston_ 1550,Little Neck_ 1551,1.013507864
+Little Neck_ 1551,Great Neck_ 1552,1.023027414
+Great Neck_ 1552,Manhasset_ 1553,1.030856534
+Manhasset_ 1553,Plandome_ 1554,1.020218893
+Plandome_ 1554,Port Washington_ 1555,1.027028846
+Hollis_ 1556,Queens Village_ 1557,1.033785546
+Hollis_ 1556,Jamaica,1.042541043
+Queens Village_ 1557,Belmont_ 1558,1.008777123
+Queens Village_ 1557,Bellerose_ 1559,1.022089568
+Bellerose_ 1559,Floral Park_ 1560,1.011417253
+Floral Park_ 1560,Stewart Manor_ 1561,1.027075129
+Floral Park_ 1560,New Hyde Park_ 1566,1.028372871
+Stewart Manor_ 1561,Nassau Boulevard_ 1562,1.019475979
+Nassau Boulevard_ 1562,Garden City_ 1563,1.023750135
+Garden City_ 1563,Country Life Press_ 1564,1.011595008
+Country Life Press_ 1564,Hempstead_ 1565,1.012464022
+New Hyde Park_ 1566,Merillon Avenue_ 1567,1.02055337
+Merillon Avenue_ 1567,Mineola_ 1568,1.024140793
+Mineola_ 1568,East Williston_ 1569,1.02203462
+Mineola_ 1568,Carle Place_ 1579,1.04145146
+East Williston_ 1569,Albertson_ 1570,1.022629704
+Albertson_ 1570,Roslyn_ 1571,1.025891922
+Roslyn_ 1571,Greenvale_ 1572,1.039450723
+Greenvale_ 1572,Glen Head_ 1573,1.023172643
+Glen Head_ 1573,Sea Cliff_ 1574,1.028260614
+Sea Cliff_ 1574,Glen Street_ 1575,1.009043351
+Glen Street_ 1575,Glen Cove_ 1576,1.012262736
+Glen Cove_ 1576,Locust Valley_ 1577,1.022482076
+Locust Valley_ 1577,Oyster Bay_ 1578,1.068179263
+Carle Place_ 1579,Westbury_ 1580,1.019821975
+Westbury_ 1580,Hicksville_ 1581,1.063880502
+Hicksville_ 1581,Syosset_ 1582,1.086232632
+Hicksville_ 1581,Bethpage_ 1592,1.058669582
+Syosset_ 1582,Cold Spring Harbor_ 1583,1.054527885
+Cold Spring Harbor_ 1583,Huntington_ 1584,1.050384367
+Huntington_ 1584,Greenlawn_ 1585,1.054165524
+Greenlawn_ 1585,Northport_ 1586,1.040141663
+Northport_ 1586,Kings Park_ 1587,1.076719807
+Kings Park_ 1587,Smithtown_ 1588,1.072532526
+Smithtown_ 1588,St. James_ 1589,1.054415561
+St. James_ 1589,Stony Brook_ 1590,1.062779032
+Stony Brook_ 1590,Port Jefferson_ 1591,1.083033742
+Bethpage_ 1592,Farmingdale_ 1593,1.045949643
+Bethpage_ 1592,Babylon_ 1641,1.17955959
+Farmingdale_ 1593,Pinelawn_ 1594,1.046193738
+Pinelawn_ 1594,Wyandanch_ 1595,1.046085926
+Wyandanch_ 1595,Deer Park_ 1596,1.071559679
+Deer Park_ 1596,Brentwood_ 1597,1.055396614
+Brentwood_ 1597,Central Islip_ 1598,1.054030346
+Central Islip_ 1598,Ronkonkoma_ 1599,1.097129335
+Ronkonkoma_ 1599,Medford_ 1600,1.11437649
+Medford_ 1600,Yaphank_ 1601,1.088886438
+Yaphank_ 1601,Riverhead_ 1602,1.295312402
+Riverhead_ 1602,Mattituck_ 1603,1.171474629
+Mattituck_ 1603,Southold_ 1604,1.154743603
+Southold_ 1604,Greenport_ 1605,1.083254849
+St. Albans_ 1606,Valley Stream_ 1610,1.076869131
+St. Albans_ 1606,Jamaica,1.043938302
+Locust Manor_ 1607,Laurelton_ 1608,1.016946813
+Locust Manor_ 1607,Jamaica,1.055584588
+Laurelton_ 1608,Rosedale_ 1609,1.017597971
+Rosedale_ 1609,Valley Stream_ 1610,1.033345657
+Valley Stream_ 1610,Westwood_ 1611,1.02683662
+Valley Stream_ 1610,Gibson_ 1616,1.017491564
+Valley Stream_ 1610,Lynbrook_ 1623,1.031475363
+Valley Stream_ 1610,Rockville Centre_ 1629,1.062103258
+Westwood_ 1611,Malverne_ 1612,1.016495635
+Malverne_ 1612,Lakeview_ 1613,1.022985789
+Lakeview_ 1613,Hempstead Gardens_ 1614,1.014187706
+Hempstead Gardens_ 1614,West Hempstead_ 1615,1.011006342
+Gibson_ 1616,Hewlett_ 1617,1.017856972
+Hewlett_ 1617,Woodmere_ 1618,1.01188449
+Woodmere_ 1618,Cedarhurst_ 1619,1.018475471
+Cedarhurst_ 1619,Lawrence_ 1620,1.0137373
+Lawrence_ 1620,Inwood_ 1621,1.010057573
+Inwood_ 1621,Far Rockaway_ 1622,1.008086544
+Lynbrook_ 1623,Centre Avenue_ 1624,1.016843207
+Lynbrook_ 1623,Rockville Centre_ 1629,1.031572855
+Centre Avenue_ 1624,East Rockaway_ 1625,1.010537511
+East Rockaway_ 1625,Oceanside_ 1626,1.011165273
+Oceanside_ 1626,Island Park_ 1627,1.046879095
+Island Park_ 1627,Long Beach_ 1628,1.018936104
+Rockville Centre_ 1629,Baldwin_ 1630,1.041975406
+Baldwin_ 1630,Freeport_ 1631,1.026453005
+Freeport_ 1631,Merrick_ 1632,1.034884035
+Merrick_ 1632,Bellmore_ 1633,1.024191451
+Bellmore_ 1633,Wantagh_ 1634,1.021972614
+Wantagh_ 1634,Seaford_ 1635,1.024127963
+Seaford_ 1635,Massapequa_ 1636,1.01871417
+Massapequa_ 1636,Massapequa Park_ 1637,1.015278968
+Massapequa Park_ 1637,Amityville_ 1638,1.036779308
+Amityville_ 1638,Copiague_ 1639,1.023395798
+Copiague_ 1639,Lindenhurst_ 1640,1.032611753
+Lindenhurst_ 1640,Babylon_ 1641,1.051091626
+Babylon_ 1641,Bay Shore_ 1642,1.081514401
+Bay Shore_ 1642,Islip_ 1643,1.050194001
+Islip_ 1643,Great River_ 1644,1.042088805
+Great River_ 1644,Oakdale_ 1645,1.040347809
+Oakdale_ 1645,Sayville_ 1646,1.049056181
+Sayville_ 1646,Patchogue_ 1647,1.080975943
+Patchogue_ 1647,Bellport_ 1648,1.078050496
+Bellport_ 1648,Mastic Shirley_ 1649,1.091601853
+Mastic Shirley_ 1649,Speonk_ 1650,1.172855779
+Speonk_ 1650,Westhampton_ 1651,1.058679453
+Westhampton_ 1651,Hampton Bays_ 1652,1.148979948
+Hampton Bays_ 1652,Southampton_ 1653,1.144180033
+Southampton_ 1653,Bridgehampton_ 1654,1.105164791
+Bridgehampton_ 1654,East Hampton_ 1655,1.129052741
+East Hampton_ 1655,Amagansett_ 1656,1.067832146
+Amagansett_ 1656,Montauk_ 1657,1.211011053
+Grand Central_ 1658,Grand Central Station,1.000854642
+Grand Central_ 1658,Woodside,1.078819245
+"'Mystic, CT'_ 1659","'Westerly, RI'_ 1684",1.14657765
+"'Mystic, CT'_ 1659",New London,1.137104248
+"'Hudson, NY'_ 1665","'Rhinecliff, NY'_ 1685",1.493094956
+"'Hudson, NY'_ 1665","'Albany-Rensselaer, NY'_ 1691",1.546196564
+"'Old Orchard Beach, ME'_ 1669","'Portland, ME'_ 1677",1.214226453
+"'Old Orchard Beach, ME'_ 1669","'Saco, ME'_ 1704",1.078423886
+"'Newport News, VA'_ 1675","'Williamsburg, VA'_ 1712",1.457089528
+'Main Street Station'_ 1676,"'Petersburg, VA'_ 1717",1.410412493
+'Main Street Station'_ 1676,'Staples Mill Road Station'_ 1727,1.139044101
+"'Portland, ME'_ 1677","'Freeport, ME'_ 1722",1.3407002
+"'Providence, RI'_ 1683","'Route 128, MA'_ 1699",1.60153974
+"'Providence, RI'_ 1683","'Kingston, RI'_ 1720",1.5086177
+"'Westerly, RI'_ 1684","'Kingston, RI'_ 1720",1.317751889
+"'Rhinecliff, NY'_ 1685",Poughkeepsie,1.301782347
+"'Albany-Rensselaer, NY'_ 1691","'Schenectady, NY'_ 1729",1.32081951
+"'Albany-Rensselaer, NY'_ 1691","'Pittsfield, MA'_ 1760",1.569462479
+"'Haverhill, MA'_ 1693","'Exeter, NH'_ 1698",1.319570714
+"'Haverhill, MA'_ 1693","'Woburn, MA'_ 1710",1.363871976
+"'Exeter, NH'_ 1698","'Durham, NH'_ 1714",1.22327636
+"'Route 128, MA'_ 1699",Back Bay,1.206359626
+"'Saco, ME'_ 1704","'Wells, ME'_ 1723",1.296836255
+"'Dover, NH'_ 1707","'Durham, NH'_ 1714",1.101216898
+"'Dover, NH'_ 1707","'Wells, ME'_ 1723",1.321925382
+"'Woburn, MA'_ 1710",North Station,1.230622001
+"'Williamsburg, VA'_ 1712",'Staples Mill Road Station'_ 1727,2
+"'Holyoke, MA'_ 1716","'Northampton, MA'_ 1724",1.162824019
+"'Holyoke, MA'_ 1716",Springfield,1.138050779
+"'Petersburg, VA'_ 1717",'Staples Mill Road Station'_ 1727,1.532950609
+"'Northampton, MA'_ 1724","'Greenfield, MA'_ 1726",1.374904598
+"Framingham, MA'_ 1725","'Worcester, MA'_ 1750",1.389557621
+"Framingham, MA'_ 1725",Back Bay,1.37087171
+"'Greenfield, MA'_ 1726","'Brattleboro, VT'_ 1730",1.375055285
+'Staples Mill Road Station'_ 1727,"'Ashland, VA'_ 1728",1.199806279
+"'Ashland, VA'_ 1728",Fredericksburg,1.756042319
+"'Schenectady, NY'_ 1729","'Amsterdam, NY'_ 1732",1.344531862
+"'Brattleboro, VT'_ 1730","'Bellows Falls, VT'_ 1735",1.41686675
+"'Downingtown, PA'_ 1731","'Coatesville, PA'_ 1743",1.120619107
+"'Downingtown, PA'_ 1731","'Exton, PA'_ 1745",1.098646375
+"'Burke Centre, VA'_ 1734",Alexandria,1.259687258
+"'Burke Centre, VA'_ 1734",Manassas,1.20133134
+"'Bellows Falls, VT'_ 1735","'Claremont, NH'_ 1749",1.332254839
+"'Middletown, PA'_ 1736","'Harrisburg, PA'_ 1739",1.185443557
+"'Middletown, PA'_ 1736","'Elizabethtown, PA'_ 1751",1.142376491
+"'Windsor-Mt. Ascutney, VT'_ 1738","'White River Junction, VT'_ 1742",1.245336674
+"'Windsor-Mt. Ascutney, VT'_ 1738","'Claremont, NH'_ 1749",1.156691687
+"'Harrisburg, PA'_ 1739","'Lewistown, PA'_ 1753",1.878080626
+"'Lancaster, PA'_ 1740","'Mount Joy, PA'_ 1744",1.223779812
+"'Lancaster, PA'_ 1740","'Parkesburg, PA'_ 1755",1.435199799
+"'White River Junction, VT'_ 1742","'Randolph, VT'_ 1759",1.522217931
+"'Coatesville, PA'_ 1743","'Parkesburg, PA'_ 1755",1.114961194
+"'Mount Joy, PA'_ 1744","'Elizabethtown, PA'_ 1751",1.128200673
+"'Exton, PA'_ 1745","'Paoli, PA'_ 1754",1.15178111
+"'Culpeper, VA'_ 1746","'Charlottesville, VA'_ 1752",1.826860481
+"'Culpeper, VA'_ 1746",Manassas,1.691043903
+"'Worcester, MA'_ 1750",Springfield,1.857737945
+"'Paoli, PA'_ 1754",Ardmore,1.213284079
+"'Cumberland, MD'_ 1758",Martinsburg,1.903262823
+"'Pittsfield, MA'_ 1760",Springfield,1.839902663
+Branford_ 1780,Guilford_ 1781,1.151497611
+Branford_ 1780,New Haven-State St,1.118204095
+Guilford_ 1781,Madison_ 1782,1.078914127
+Madison_ 1782,Clinton_ 1783,1.075283838
+Clinton_ 1783,Westbrook_ 1784,1.085767061
+Westbrook_ 1784,Old Saybrook,1.07665885
+Penn Station NYC,Penn Station Newark,1.183499691
+Penn Station NYC,Woodside,1.09573834
+Penn Station NYC,Yonkers,1.27714154
+Penn Station NYC,New Rochelle,1.316604268
+Penn Station Newark,Liberty International,1.053426111
+Penn Station Newark,Hoboken,1.145012664
+Liberty International,Metropark,1.239888205
+West 4th/Washington Sq/9th St,14th St,1.007172134
+14th St,23rd St,1.008170369
+23rd St,33rd St/Herald,1.010168738
+Grand Central Station,125th St,1.083929744
+Atlantic Ave/Barclays Center,Nostrand Ave,1.030983734
+Nostrand Ave,Broadway,1.048259557
+Broadway,Jamaica,1.110704186
+"Forest Hills, NY",Woodside,1.071321361
+Woodside,Hunters Point,1.047935023
+Yonkers,Croton-Harmon,1.357221187
+New Rochelle,Stamford,1.318708155
+Stamford,Bridgeport,1.418233463
+Stamford,South Norwalk,1.146019665
+Croton-Harmon,Poughkeepsie,1.726900244
+Back Bay,South Station,1.022538491
+Back Bay,Ruggles,1.020109289
+South Station,JFK UMass,1.041977979
+North Station,Malden Center,1.087908127
+North Station,Porter Square,1.069520355
+Bridgeport,New Haven,1.320190954
+Bridgeport,South Norwalk,1.272399149
+Bridgeport,Stratford,1.062836125
+New Haven,New Haven-State St,1.013026973
+New Haven,West Haven,1.051935469
+New Haven,Old Saybrook,1.580611896
+Metropark,New Brunswick,1.159548571
+New Brunswick,Princeton Junction,1.317022034
+Princeton Junction,Princeton,1.052173527
+Princeton Junction,Hamilton,1.120882067
+Princeton Junction,Trenton,1.195363836
+Hamilton,Trenton,1.074490432
+Trenton,Cornwells Heights,1.29575335
+Pennsauken,Cherry Hill,1.072813869
+Pennsauken,30th St,1.133343521
+Cherry Hill,Lindenwold,1.140017011
+Lindenwold,Atco,1.122234924
+15th St,13th St,1.003857568
+15th St,30th St,1.018970634
+30th St,Ardmore,1.137462618
+30th St,Wilmington,1.501507111
+30th St,North Philadelphia,1.064739623
+Wilmington,"Newark, DE",1.237592396
+"Newark, DE",Aberdeen,1.497856575
+Cornwells Heights,North Philadelphia,1.241941532
+Aberdeen,"Penn Station, Baltimore",1.565570593
+"Penn Station, Baltimore",Camden Yards,1.034369508
+"Penn Station, Baltimore",BWI Airport,1.182824965
+BWI Airport,New Carrollton,1.393465481
+New Carrollton,"Union Station, Washington, DC",1.162811825
+Greenbelt,College Park,1.048736141
+Silver Springs,"Union Station, Washington, DC",1.137003803
+Rockville,Harpers Ferry,1.719647022
+Rockville,"Union Station, Washington, DC",1.302896982
+Harpers Ferry,Martinsburg,1.312055203
+L'Enfants Plaza,Crystal City,1.048068863
+L'Enfants Plaza,"Union Station, Washington, DC",1.024404997
+Crystal City,Alexandria,1.074235614
+Alexandria,Franconia/Springfield,1.129559167
+Alexandria,Woodbridge,1.290410007
+Alexandria,"Union Station, Washington, DC",1.14152821
+Woodbridge,Quantico,1.198519008
+Quantico,Fredericksburg,1.36187798
+New Haven-State St,Wallingford,1.236110872
+Forest Hills,Ruggles,1.058967115
+Malden Center,Oak Grove,1.014323718
+JFK UMass,Quincy Center,1.10990318
+Quincy Center,Braintree,1.062514836
+Stratford,Milford,1.087928188
+Milford,West Haven,1.120128865
+Old Saybrook,New London,1.308140834
+Wallingford,Meriden,1.118447537
+Meriden,Berlin,1.139974418
+Berlin,Hartford,1.206456268
+Hartford,Windsor,1.123714653
+Windsor,Windsor Locks,1.088511127
+Windsor Locks,Springfield,1.271579384
