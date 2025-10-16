@@ -1,0 +1,5 @@
+name: project
+channels:
+  - conda-forge
+dependencies:
+  - nodejs
