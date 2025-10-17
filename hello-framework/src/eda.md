@@ -50,7 +50,7 @@ Plot.plot({
   ],
   x: { label: "Longitude" },
   y: { label: "Latitude" },
-  title: "Boston Railway Stations",
+  title: "Northeast Corridor Stations",
   style: "background: #f0f8ff;"
 })
 ```
